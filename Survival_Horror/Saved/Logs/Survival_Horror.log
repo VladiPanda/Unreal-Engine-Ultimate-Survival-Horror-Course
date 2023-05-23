@@ -2243,3 +2243,264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.23-12.38.48:462][886]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorA70139E044241F903D1CD08AD14A6E9C.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
 [2023.05.23-12.38.48:491][886]AssetCheck: New page: Asset Save: BP_PhysicsDoor
 [2023.05.23-12.38.48:491][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.46.55:095][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.05.23-12.46.55:119][482]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_Auto8C891F3A94DD0F3818CC34A876C430D58.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Maps/Level_1_Auto8.umap'
+[2023.05.23-12.46.55:121][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.068
+[2023.05.23-12.46.55:121][482]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2023.05.23-12.51.43:939][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.51.46:995][196]Cmd: TRANSACTION UNDO
+[2023.05.23-12.51.46:995][196]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.51.50:265][523]Cmd: TRANSACTION UNDO
+[2023.05.23-12.51.50:265][523]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.52.09:020][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.52.12:645][125]Cmd: TRANSACTION UNDO
+[2023.05.23-12.52.12:645][125]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.52.20:768][  4]Cmd: TRANSACTION UNDO
+[2023.05.23-12.52.20:768][  4]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.52.37:960][362]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2023.05.23-12.52.44:862][148]LogEditorViewport: Clicking on Actor (context menu): BP_Interaction_Door_C (BP_Interaction_Door)
+[2023.05.23-12.52.45:917][258]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.05.23-12.53.18:219][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.53.18:305][589]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.23-12.53.19:583][733]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.23-12.53.21:569][962]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.23-12.53.23:697][195]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.23-12.53.23:796][205]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2023.05.23-12.53.28:066][693]LogEditorViewport: Clicking on Actor (LMB): BP_Interaction_Door_C (BP_Interaction_Door)
+[2023.05.23-12.53.28:181][703]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2023.05.23-12.53.28:919][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.53.32:964][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.53.42:818][362]Cmd: TRANSACTION UNDO
+[2023.05.23-12.53.42:818][362]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.53.56:206][532]Cmd: TRANSACTION UNDO
+[2023.05.23-12.53.56:207][532]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.53.57:782][627]Cmd: TRANSACTION UNDO
+[2023.05.23-12.53.57:782][627]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.53.59:543][750]Cmd: TRANSACTION UNDO
+[2023.05.23-12.53.59:543][750]LogEditorTransaction: Undo Set Scale
+[2023.05.23-12.54.00:861][845]Cmd: TRANSACTION UNDO
+[2023.05.23-12.54.00:861][845]LogEditorTransaction: Undo Set Location
+[2023.05.23-12.55.15:079][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.05.23-12.55.35:404][640]Cmd: TRANSACTION UNDO
+[2023.05.23-12.55.35:404][640]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.55.47:029][758]Cmd: TRANSACTION UNDO
+[2023.05.23-12.55.47:029][758]LogEditorTransaction: Undo Set Scale
+[2023.05.23-12.55.54:495][290]Cmd: TRANSACTION UNDO
+[2023.05.23-12.55.54:496][290]LogEditorTransaction: Undo Set Location
+[2023.05.23-12.56.01:134][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.05.23-12.56.01:426][808]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.01:426][808]LogEditorTransaction: Undo Clicking on Actors
+[2023.05.23-12.56.02:025][829]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.02:025][829]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.56.14:207][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.05.23-12.56.24:625][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2023.05.23-12.56.32:077][527]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.32:077][527]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.56.33:019][587]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.33:019][587]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.56.38:245][ 61]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.38:245][ 61]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.56.40:544][207]Cmd: TRANSACTION UNDO
+[2023.05.23-12.56.40:544][207]LogEditorTransaction: Undo Set Rotation
+[2023.05.23-12.57.32:963][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.23-12.57.50:054][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.05.23-12.57.50:586][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2023.05.23-12.57.54:491][922]Cmd: TRANSACTION UNDO
+[2023.05.23-12.57.54:491][922]LogEditorTransaction: Undo Move Actors
+[2023.05.23-12.58.11:724][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2023.05.23-12.58.34:589][ 37]Cmd: DELETE
+[2023.05.23-12.58.34:589][ 37]Cmd: ACTOR DELETE
+[2023.05.23-12.58.34:592][ 37]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2023.05.23-12.58.34:633][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.05.23-12.58.34:640][ 37]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.05.23-12.58.45:699][556]Cmd: DELETE
+[2023.05.23-12.58.45:699][556]Cmd: ACTOR DELETE
+[2023.05.23-12.58.45:701][556]LogEditorActor: Deleted Actor: AtmosphericFog
+[2023.05.23-12.58.45:735][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.23-12.58.45:737][556]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.05.23-12.58.49:075][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.23-12.58.49:095][945]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1E77A851E4F3B925037DCEFA6145C2B29.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-12.58.49:171][945]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataA43198CB484532AA75B78E880939B83B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-12.58.49:195][945]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-12.58.49:195][945]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-12.58.49:195][945]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-12.59.00:912][338]Cmd: DELETE
+[2023.05.23-12.59.00:912][338]Cmd: ACTOR DELETE
+[2023.05.23-12.59.00:914][338]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.05.23-12.59.00:951][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.05.23-12.59.00:953][338]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2023.05.23-12.59.10:236][734]Cmd: DELETE
+[2023.05.23-12.59.10:236][734]Cmd: ACTOR DELETE
+[2023.05.23-12.59.10:238][734]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.05.23-12.59.10:239][734]LogEditorActor: Deleted Actor: SkyLight
+[2023.05.23-12.59.10:278][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.23-12.59.10:280][734]LogEditorActor: Deleted 2 Actors (0.044 secs)
+[2023.05.23-13.00.08:864][713]MapCheck: New page: Map Check
+[2023.05.23-13.00.08:886][713]LightingResults: New page: Lighting Build - May 23, 2023, 7:00:08 PM
+[2023.05.23-13.00.08:968][713]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.23-13.00.09:058][713]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.23-13.00.09:081][713]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.23-13.00.13:129][713]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2023.05.23-13.00.13:147][713]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2023.05.23-13.00.18:187][713]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.23-13.00.18:187][713]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4956
+[2023.05.23-13.00.24:029][713]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.23-13.00.24:029][713]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.23-13.00.24:030][713]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.23-13.00.24:030][713]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.23-13.00.24:030][713]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.23-13.00.24:030][713]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.23-13.00.24:202][713]LogEditorBuildUtils: Build time 0:15
+[2023.05.23-13.00.24:219][713]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2023.05.23-13.00.24:241][713]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.00.24:241][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.00.24:241][713]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2023.05.23-13.00.24:282][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.00.24:282][713]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.00.24:301][714]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2023.05.23-13.00.24:310][714]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2023.05.23-13.00.26:843][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2023.05.23-13.00.26:843][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.23-13.00.26:843][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.23-13.00.27:035][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.05.23-13.00.28:654][720]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2023.05.23-13.00.30:485][818]Job is a success!
+[2023.05.23-13.00.30:798][819]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.23-13.00.30:799][819]LogVolumetricLightmapImport:          Level_1 			 2 bricks 	 100.0% (Persistent Level)
+[2023.05.23-13.00.30:892][819]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2023.05.23-13.00.30:892][819]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2023.05.23-13.00.30:892][819]Lightmass on STUDIOC: 1.83 sec total, 279 ms importing, 21 ms setup, 132 ms photons, 1.35 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 9.44 sec total, 3.43 sec processing.
+[2023.05.23-13.00.30:892][819]LogStaticLightingSystem: Level_1_BuiltData storing lightmap data for 8 meshes in 1 LightmapResourceClusters (8.0 Meshes per cluster).
+[2023.05.23-13.00.30:936][819]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2023.05.23-13.00.31:015][819]LogStaticLightingSystem: Illumination: 22.0 sec (29 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2023.05.23-13.00.31:015][819]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.05.23-13.00.31:015][819]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2023.05.23-13.00.32:044][819]DumpUnbuiltLightIteractions
+[2023.05.23-13.00.32:044][819]Lights with unbuilt interactions: 0
+[2023.05.23-13.00.32:044][819]
+[2023.05.23-13.00.32:044][819]Primitives with unbuilt interactions: 0
+[2023.05.23-13.00.32:114][820]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.23-13.00.32:114][820]MapCheck: New page: Level_1 - May 23, 2023, 7:00:32 PM
+[2023.05.23-13.00.32:116][820]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.087ms to complete.
+[2023.05.23-13.01.53:812][276]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.23-13.02.00:261][941]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.05.23-13.02.28:671][761]MapCheck: New page: Map Check
+[2023.05.23-13.02.28:687][761]LightingResults: New page: Lighting Build - May 23, 2023, 7:02:28 PM
+[2023.05.23-13.02.28:695][761]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.23-13.02.28:700][761]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.23-13.02.28:700][761]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.23-13.02.28:701][761]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.23-13.02.28:701][761]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4956
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.23-13.02.33:225][761]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.23-13.02.33:285][761]LogEditorBuildUtils: Build time 0:04
+[2023.05.23-13.02.33:366][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.05.23-13.02.37:237][974]Job is a success!
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:          1: 20.0% covering 1.6% of volume
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:          2: 60.0% covering 0.1% of volume
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.23-13.02.37:414][976]LogVolumetricLightmapImport:          Level_1 			 5 bricks 	 100.0% (Persistent Level)
+[2023.05.23-13.02.37:555][976]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2023.05.23-13.02.37:555][976]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2023.05.23-13.02.37:555][976]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2023.05.23-13.02.37:555][976]LogStaticLightingSystem: Level_1_BuiltData storing lightmap data for 8 meshes in 2 LightmapResourceClusters (4.0 Meshes per cluster).
+[2023.05.23-13.02.37:600][976]Lightmass on STUDIOC: 3.39 sec total, 263 ms importing, 24 ms setup, 282 ms photons, 2.76 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 19.3 sec total, 6.09 sec processing.
+[2023.05.23-13.02.37:602][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.05.23-13.02.37:707][976]LogStaticLightingSystem: Illumination: 8.91 sec (77 ms encoding lightmaps, 45 ms encoding shadowmaps)
+[2023.05.23-13.02.37:707][976]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.05.23-13.02.37:707][976]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.05.23-13.02.38:233][976]DumpUnbuiltLightIteractions
+[2023.05.23-13.02.38:233][976]Lights with unbuilt interactions: 0
+[2023.05.23-13.02.38:233][976]
+[2023.05.23-13.02.38:233][976]Primitives with unbuilt interactions: 0
+[2023.05.23-13.02.38:286][977]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.23-13.02.38:286][977]MapCheck: New page: Level_1 - May 23, 2023, 7:02:38 PM
+[2023.05.23-13.02.38:287][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.345ms to complete.
+[2023.05.23-13.02.39:999][161]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.02.40:009][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.02.40:010][161]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:02:40 PM)
+[2023.05.23-13.02.40:038][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.02.40:042][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004134s)
+[2023.05.23-13.02.40:043][161]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.02.40:043][161]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2023.05.23-13.02.40:044][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005713s)
+[2023.05.23-13.02.40:082][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.05.23-13.02.40:084][161]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.05.23-13.02.40:084][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.02.40:084][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.02.40:085][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.02.40:085][161]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.02.40:085][161]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.02.40:098][161]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.02.40:098][161]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.02.40:112][161]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.02.40:112][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.02.40:112][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.02.40:112][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.02.40:113][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.02.40:113][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.02.40:113][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.02.40:128][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.02.40:128][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.02.40:128][161]LogInit: FAudioDevice initialized.
+[2023.05.23-13.02.40:128][161]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_1'.
+[2023.05.23-13.02.40:139][161]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.02.40:141][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.02.40
+[2023.05.23-13.02.40:141][161]LogWorld: Bringing up level for play took: 0.001195
+[2023.05.23-13.02.40:141][161]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2023.05.23-13.02.40:144][161]PIE: Server logged in
+[2023.05.23-13.02.40:145][161]PIE: Play in editor total start time 0.138 seconds.
+[2023.05.23-13.03.03:028][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.03.03:028][889]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.03.03:028][889]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.03.03:029][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.03.03:054][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.03.03:070][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.03.03:105][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-13.03.03:106][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.03.03:107][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.03.03:123][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.03.03:130][889]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.05.23-13.03.03:172][890]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.05.23-13.03.04:349][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.05.23-13.03.04:359][  9]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_138D3890E4D752799E36F85AFEDBC7D42.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.03.04:422][  9]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData5ED4CC7942433CFBB8E361A4A41965AC.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.03.04:459][  9]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.03.04:459][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.03.04:459][  9]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
