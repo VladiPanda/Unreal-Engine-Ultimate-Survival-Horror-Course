@@ -2504,3 +2504,155 @@ Exception rethrown at [0]:
 [2023.05.23-13.03.04:459][  9]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.23-13.03.04:459][  9]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
 [2023.05.23-13.03.04:459][  9]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.08.45:102][716]LogDirectoryWatcher: Display: A directory notification failed for 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.23-13.08.45:102][716]LogDirectoryWatcher: Display: A directory notification failed for 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Developers/yossi/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.23-13.08.45:102][716]LogDirectoryWatcher: Display: A directory notification failed for 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.05.23-13.09.50:643][483]LogTexture: Display: Building textures: Capped2 (RGBA16F, 256X1)
+[2023.05.23-13.10.18:769][ 46]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-13.10.18:863][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2023.05.23-13.10.19:285][ 75]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterE133642E4D79170EDA76D0BDF285CF7A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.10.19:309][ 75]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.10.19:309][ 75]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.11.03:064][ 12]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-13.11.03:142][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2023.05.23-13.11.03:710][ 61]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character15D622094DECCD11162FFABBA57A2721.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.11.03:737][ 61]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.11.03:737][ 61]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.13.04:507][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2023.05.23-13.13.04:514][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.057
+[2023.05.23-13.13.04:514][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameBP/Level_1/LVL1_Character] ([1] browsable assets)...
+[2023.05.23-13.13.04:514][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBP/Level_1/LVL1_Character]
+[2023.05.23-13.13.04:551][958]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character_Auto920787C9547D7B69F1720C5B93187F60F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/GameBP/Level_1/LVL1_Character_Auto9.uasset'
+[2023.05.23-13.13.04:552][958]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.05.23-13.13.27:364][369]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.13.27:371][369]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.23-13.13.27:373][369]LogPlayLevel: [PlayLevel] Compiling LVL1_Character before play...
+[2023.05.23-13.13.27:464][369]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.05.23-13.13.27:468][369]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (1 blueprints)
+[2023.05.23-13.13.27:468][369]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:13:27 PM)
+[2023.05.23-13.13.27:509][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.13.27:512][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002838s)
+[2023.05.23-13.13.27:513][369]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.13.27:513][369]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2023.05.23-13.13.27:513][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004226s)
+[2023.05.23-13.13.27:551][369]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2023.05.23-13.13.27:553][369]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.13.27:553][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.13.27:553][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.13.27:554][369]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.13.27:554][369]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.13.27:572][369]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.13.27:572][369]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.13.27:588][369]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.13.27:588][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.13.27:588][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.13.27:588][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.13.27:589][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.13.27:589][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.13.27:589][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.13.27:604][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.13.27:604][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.13.27:604][369]LogInit: FAudioDevice initialized.
+[2023.05.23-13.13.27:604][369]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_1'.
+[2023.05.23-13.13.27:616][369]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.13.27:618][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.13.27
+[2023.05.23-13.13.27:619][369]LogWorld: Bringing up level for play took: 0.001313
+[2023.05.23-13.13.27:619][369]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.05.23-13.13.27:622][369]PIE: Server logged in
+[2023.05.23-13.13.27:623][369]PIE: Play in editor total start time 0.253 seconds.
+[2023.05.23-13.13.32:209][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.13.32:209][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.13.32:209][911]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.13.32:210][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.13.32:219][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.13.32:235][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.13.32:273][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.13.32:274][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.13.32:275][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.13.32:296][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.05.23-13.13.32:346][912]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.23-13.14.35:243][690]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.23-13.14.53:646][118]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.23-13.14.53:652][118]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.23-13.14.54:654][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.05.23-13.14.54:670][203]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1B8493A804307B6F524DAD48BB8DA6CE9.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.14.54:708][203]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataFBD1F8344AFD7E170177349D2F8DC2CF.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.14.54:729][203]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.14.54:729][203]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.14.54:730][203]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.15.11:014][639]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character80406A804C8B5FE4D05B67A70655BA71.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.15.11:046][639]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.15.11:046][639]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.17.18:958][791]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character45E51E1B4C189AE77A39358561EAE2D7.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.17.18:979][791]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.17.18:979][791]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.17.28:675][347]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character476A99E448234882124EFAA208886B4A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.17.28:695][347]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.17.28:695][347]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.17.29:586][446]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-13.17.29:674][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.05.23-13.17.30:142][482]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterD756D409496ABE346B320BA4DEF1D4D3.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-13.17.30:163][482]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-13.17.30:163][482]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-13.17.51:413][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.17.51:421][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.17.51:421][ 69]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:17:51 PM)
+[2023.05.23-13.17.51:421][ 69]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.17.51:424][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002710s)
+[2023.05.23-13.17.51:425][ 69]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.17.51:426][ 69]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2023.05.23-13.17.51:426][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004421s)
+[2023.05.23-13.17.51:468][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2023.05.23-13.17.51:469][ 69]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.05.23-13.17.51:469][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.17.51:469][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.17.51:469][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.17.51:470][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.17.51:470][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.17.51:470][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.17.51:470][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.17.51:470][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.17.51:470][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.17.51:470][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.17.51:487][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.17.51:487][ 69]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.17.51:503][ 69]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.17.51:504][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.17.51:504][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.17.51:504][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.17.51:505][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.17.51:505][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.17.51:505][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.17.51:520][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.17.51:520][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.17.51:520][ 69]LogInit: FAudioDevice initialized.
+[2023.05.23-13.17.51:520][ 69]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_1'.
+[2023.05.23-13.17.51:526][ 69]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.17.51:529][ 69]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.17.51
+[2023.05.23-13.17.51:530][ 69]LogWorld: Bringing up level for play took: 0.002725
+[2023.05.23-13.17.51:530][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.05.23-13.17.51:534][ 69]PIE: Server logged in
+[2023.05.23-13.17.51:535][ 69]PIE: Play in editor total start time 0.115 seconds.
+[2023.05.23-13.17.54:919][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.17.54:919][469]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.17.54:919][469]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.17.54:919][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.17.54:934][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.17.54:954][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.17.54:991][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.17.54:991][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.17.54:992][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.17.55:014][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.05.23-13.17.55:060][470]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.23-13.18.09:270][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.05.23-13.18.09:282][619]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_11C6518CB4AD8F690620FCFB54BFD4912.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.18.09:333][619]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData999026974AA8E7AC4207878F57102943.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.18.09:356][619]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.18.09:356][619]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.18.09:356][619]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
