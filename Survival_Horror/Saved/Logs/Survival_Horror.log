@@ -2656,3 +2656,726 @@ Exception rethrown at [0]:
 [2023.05.23-13.18.09:356][619]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.23-13.18.09:356][619]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
 [2023.05.23-13.18.09:356][619]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.21.22:014][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.23-13.21.22:025][194]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.23-13.21.23:746][390]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.05.23-13.21.23:746][390]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.23-13.21.26:018][627]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.23-13.21.26:038][627]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.23-13.21.27:644][720]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.05.23-13.21.27:648][720]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.23-13.21.34:932][517]LogContentBrowser: Attempting asset rename: NewMaterial -> M_LightFlicker
+[2023.05.23-13.21.35:015][517]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/M_LightFlickerFFE8DE784AB8773A2B1A8D8F24127DB6.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Materials/M_LightFlicker.uasset'
+[2023.05.23-13.21.35:138][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.05.23-13.21.35:192][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.05.23-13.21.35:227][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.23-13.21.35:268][517]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.05.23-13.21.35:268][517]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.05.23-13.21.41:309][704]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.05.23-13.21.41:312][704]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.41:424][704]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.41:437][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2023.05.23-13.21.41:437][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2023.05.23-13.21.41:437][704]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2023.05.23-13.21.41:437][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2023.05.23-13.21.42:550][796]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2023.05.23-13.21.43:091][847]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2023.05.23-13.21.43:326][870]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2023.05.23-13.21.43:346][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.21.43:775][891]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.21.45:140][931]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.23-13.21.45:140][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.23-13.21.45:140][931]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.21.45:140][931]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.23-13.21.52:343][307]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.52:369][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2023.05.23-13.21.52:369][308]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2023.05.23-13.21.52:369][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2023.05.23-13.21.52:369][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2023.05.23-13.21.53:097][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2023.05.23-13.21.53:302][389]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.53:325][389]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.53:334][389]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.21.53:396][390]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.23-13.21.53:453][393]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.21.54:138][459]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.21.54:138][459]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.21.54:138][459]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.22.13:653][ 19]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.22.13:689][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.22.13:689][ 20]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.22.14:487][101]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.22.14:487][101]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.22.14:487][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.22.57:179][774]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.22.57:182][774]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.22.57:214][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.22.57:214][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.22.58:092][871]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.22.58:092][871]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.22.58:092][871]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.23.22:982][153]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.23:011][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.23.23:011][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.23.23:894][252]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.23.23:894][252]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.23.23:894][252]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.23.37:245][160]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.05.23-13.23.37:248][160]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.37:251][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.23.37:251][160]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.23.37:302][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.23.37:302][161]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.23.38:332][269]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.23.38:332][269]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.23.38:332][269]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.23.38:986][346]LogEditorTransaction: Undo Move Node
+[2023.05.23-13.23.38:995][346]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.05.23-13.23.38:998][346]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.39:004][346]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.23-13.23.39:005][346]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.23.39:005][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.23.39:005][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.23.39:686][371]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.23.39:686][371]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.23.39:686][371]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.23.42:847][743]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2023.05.23-13.23.42:869][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.23-13.23.42:869][746]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.23.42:869][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.23.42:869][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.23.44:494][913]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2023.05.23-13.23.44:497][913]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.44:504][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.23-13.23.44:504][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.23.44:504][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.23.44:504][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.23.44:508][913]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2023.05.23-13.23.44:528][913]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.44:533][913]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.23.45:200][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.05.23-13.23.45:220][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2023.05.23-13.23.45:390][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.23-13.23.45:391][984]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2023.05.23-13.23.45:992][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.23-13.23.46:295][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.05.23-13.23.47:185][ 65]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.23.47:185][ 65]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.23.47:185][ 65]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.24.01:637][684]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.01:641][684]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.01:651][685]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.24.01:651][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.24.03:175][768]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.24.03:175][768]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.24.03:175][768]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.24.06:950][938]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.06:966][939]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.24.06:966][939]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.24.07:618][  2]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.24.07:618][  2]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.24.07:618][  2]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.24.24:228][182]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.24:231][182]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.24:267][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.24.24:267][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.24.24:835][246]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.24.24:835][246]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.24.24:835][246]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.24.41:734][582]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.41:738][582]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.41:776][583]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.24.41:776][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.24.42:338][643]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.24.42:338][643]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.24.42:338][643]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.24.59:511][630]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.59:514][630]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.24.59:542][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.24.59:542][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.00:131][693]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.00:131][693]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.00:131][693]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.25.04:032][156]LogMaterialEditor: Saving and Compiling material M_LightFlicker
+[2023.05.23-13.25.08:733][156]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.08:753][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.08:753][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.08:770][156]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.08:827][156]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2023.05.23-13.25.08:827][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2023.05.23-13.25.08:900][156]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2023.05.23-13.25.08:907][156]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2023.05.23-13.25.08:976][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.23-13.25.09:571][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2023.05.23-13.25.09:571][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.05.23-13.25.10:691][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.25.10:691][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.11:252][156]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.11:397][156]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/M_LightFlicker9C309CD54FD4210013100EA60DF6EF18.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Materials/M_LightFlicker.uasset'
+[2023.05.23-13.25.11:465][156]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.05.23-13.25.11:465][156]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.05.23-13.25.11:466][156]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.11:466][156]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.11:466][156]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.23-13.25.17:244][589]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.17:299][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.17:299][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.17:846][650]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.17:846][650]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.17:846][650]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.25.18:277][697]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.18:311][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.18:311][698]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.18:886][754]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.18:886][754]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.18:886][754]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.25.28:573][  3]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.28:584][  3]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.28:635][  4]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.28:635][  4]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.29:214][ 56]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.29:215][ 56]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.29:215][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.25.39:964][ 98]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.39:977][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.25.39:978][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.25.39:978][ 98]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.25.40:044][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2023.05.23-13.25.40:044][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.23-13.25.41:137][199]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.25.41:137][199]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.25.41:137][199]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.26.17:378][408]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.17:438][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.17:438][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.18:401][489]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.26.18:401][489]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.18:401][489]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.26.21:071][790]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.21:074][790]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.21:114][791]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.21:114][791]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.21:723][849]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.26.21:723][849]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.21:723][849]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.26.31:027][908]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.31:031][908]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.31:031][908]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.31:642][960]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.26.31:642][960]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.31:642][960]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.26.32:295][ 34]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.32:308][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.32:308][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.32:895][ 90]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.26.32:895][ 90]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.32:895][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.26.41:615][ 90]LogMaterialEditor: Saving and Compiling material M_LightFlicker
+[2023.05.23-13.26.42:291][ 90]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.42:330][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.42:330][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.42:353][ 90]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.42:397][ 90]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2023.05.23-13.26.42:397][ 90]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2023.05.23-13.26.42:465][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.05.23-13.26.42:470][ 90]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2023.05.23-13.26.42:531][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.23-13.26.43:137][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2023.05.23-13.26.43:137][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.05.23-13.26.43:696][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.26.44:248][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.44:248][ 90]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.44:613][ 90]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/M_LightFlickerEA2AFC804C55448453BD0D82DD95E513.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Materials/M_LightFlicker.uasset'
+[2023.05.23-13.26.44:657][ 90]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.05.23-13.26.44:657][ 90]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.05.23-13.26.44:658][ 90]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2023.05.23-13.26.44:658][ 90]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.44:659][ 90]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.23-13.26.50:400][321]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.26.50:420][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.26.50:420][322]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.26.51:163][367]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.26.51:163][367]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.26.51:164][367]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.27.21:797][240]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.21:801][240]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.21:824][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.27.21:824][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.27.22:655][323]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.27.22:655][323]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.27.22:655][323]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.27.29:670][903]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.29:674][903]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.29:688][904]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.27.29:688][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.27.30:279][959]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.27.30:279][959]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.27.30:279][959]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.27.37:705][137]LogMaterialEditor: Saving and Compiling material M_LightFlicker
+[2023.05.23-13.27.38:402][137]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.38:434][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.27.38:434][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.27.38:461][137]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.27.38:516][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2023.05.23-13.27.38:516][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2023.05.23-13.27.38:588][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.05.23-13.27.38:592][137]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2023.05.23-13.27.38:654][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.23-13.27.39:248][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2023.05.23-13.27.39:808][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2023.05.23-13.27.40:369][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2023.05.23-13.27.40:369][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.27.40:933][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.27.40:994][137]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/M_LightFlicker3A3A0E2D4EB5016E53682E942D62E58E.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Materials/M_LightFlicker.uasset'
+[2023.05.23-13.27.41:047][137]AssetCheck: New page: Asset Save: M_LightFlicker
+[2023.05.23-13.27.41:047][137]LogContentValidation: Display: Validating Material /Game/Materials/M_LightFlicker.M_LightFlicker
+[2023.05.23-13.27.41:049][137]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.27.41:049][137]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.27.41:049][137]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.23-13.28.10:546][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.05.23-13.28.10:602][880]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_11E061E9C4D8FA9B099F067A62E63316A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.28.10:650][880]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataF93A2923406B1C8E506CEB8B068726D4.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.28.10:675][880]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.28.10:675][880]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.28.10:675][880]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.28.34:034][120]LogContentBrowser: Deferred new asset file creation: M_LightFlicker_Inst
+[2023.05.23-13.28.34:059][120]LogContentBrowser: Creating deferred item: M_LightFlicker_Inst
+[2023.05.23-13.28.34:868][190]LogContentBrowser: Attempting asset rename: M_LightFlicker_Inst -> M_LightFlicker_Inst
+[2023.05.23-13.28.34:869][190]LogContentBrowser: End creating deferred item M_LightFlicker_Inst
+[2023.05.23-13.28.39:874][334]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.05.23-13.28.57:915][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.05.23-13.28.57:929][430]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_176551E0F4FB1C71267562D99BAB1AE24.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.28.57:977][430]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataA9AA98304507C0C9C4186EA07963F9C0.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.28.57:999][430]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.28.57:999][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.28.57:999][430]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.28.59:898][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.23-13.28.59:931][578]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1BB13E0A7471132333ACD87AE07ACFA82.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.28.59:965][578]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData6A180CA5441D192984A1AB8157357929.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.28.59:989][578]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.28.59:989][578]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.28.59:990][578]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.30.29:557][276]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.05.23-13.30.30:405][276]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.23-13.30.30:416][276]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.23-13.30.30:429][276]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.23-13.30.35:730][872]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FlickeringLight
+[2023.05.23-13.30.35:735][872]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.23-13.30.36:687][976]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightDC84328B493D20AB8E6B4AB33BC82D7F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.30.36:708][976]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.30.36:708][976]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.30.41:971][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.30.59:332][ 86]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.30.59:405][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.05.23-13.30.59:757][112]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight64DDE3704A7B7FEF61EC8484E6AEA23B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.30.59:782][112]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.30.59:782][112]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.31.26:058][850]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight4524847E4ABBFBB2A830489CB8BD67B7.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.31.26:076][850]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.31.26:076][850]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.31.56:792][965]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.31.56:861][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2023.05.23-13.32.22:264][105]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightD61F6D5F4866C586DA8A57A4F385A470.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.32.22:287][105]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.32.22:287][105]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.32.23:983][298]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight9BD105DC4516BDE47B58FC91B0D94A4D.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.32.24:004][298]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.32.24:004][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.32.25:876][516]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.32.25:941][516]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2023.05.23-13.32.26:250][546]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight621CF4F94BB34B786FA58EA5CAD8A886.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.32.26:275][546]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.32.26:275][546]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.32.48:868][111]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightFDB6FF2C4582FD060763939F13201D7B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.32.48:889][111]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.32.48:889][111]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.32.49:354][157]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.32.49:427][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.05.23-13.32.49:888][205]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightBD210FBA45AADB129B924F8BBE25680F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.32.49:911][205]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.32.49:911][205]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.34.03:840][781]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightE429776C42662D6DC45AF791F3798F9D.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.34.03:871][781]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.34.03:871][781]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.34.05:067][918]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.34.05:134][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2023.05.23-13.34.05:496][953]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight080B637F46A7F957B1A9C981C66B684F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.34.05:518][953]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.34.05:518][953]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.35.47:960][764]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.35.48:034][764]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2023.05.23-13.35.48:371][796]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightAE3E043547E8E6AF03C2F28202333799.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.35.48:393][796]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.35.48:393][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.37.31:031][318]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight4D8DAC7647534ED39DDC09A4968EA6B6.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.37.31:053][318]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.37.31:054][318]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.38.43:457][967]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.23-13.38.43:477][967]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.38.43:484][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.38.43:484][967]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.38.44:215][  4]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.38.44:216][  4]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.38.44:216][  4]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.38.54:742][227]LogEditorTransaction: Undo Move Node
+[2023.05.23-13.38.54:763][227]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.38.54:806][227]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.38.54:806][227]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.38.55:304][242]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.38.55:304][242]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.38.55:304][242]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.05:284][417]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.39.05:367][417]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2023.05.23-13.39.05:721][448]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLightA6ADB2CC4FE9DB27704BD4AC16342D94.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.39.05:747][448]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.39.05:747][448]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.39.08:965][829]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.23-13.39.08:988][829]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.39.08:992][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.39.08:992][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.39.09:546][848]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.39.09:547][848]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.39.09:547][848]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.11:656][ 99]LogEditorTransaction: Undo Move Node
+[2023.05.23-13.39.11:678][ 99]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.39.11:772][100]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.39.11:772][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.39.12:391][164]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.39.12:391][164]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.39.12:391][164]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.12:491][176]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.23-13.39.12:514][176]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.39.12:519][176]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.39.12:519][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.39.13:092][233]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.39.13:092][233]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.39.13:092][233]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.36:168][995]LogEditorTransaction: Undo Move Node
+[2023.05.23-13.39.36:186][995]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.39.36:234][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.39.36:234][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.39.37:040][ 47]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.39.37:040][ 47]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.39.37:040][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.37:098][ 54]LogEditorTransaction: Undo Create Reroute Node
+[2023.05.23-13.39.37:119][ 54]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.39.37:123][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.39.37:123][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.39.37:704][109]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.39.37:704][109]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.39.37:704][109]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.39.54:269][ 62]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight7D8E3B144D78BBAC1D86878CA5E799F9.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.39.54:292][ 62]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.39.54:292][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.40.20:938][554]BlueprintLog: New page: Compile BP_FlickeringLight
+[2023.05.23-13.40.21:015][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.05.23-13.40.21:357][586]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_FlickeringLight3B5539CF40E94523F68185A5397BF2BA.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BP_FlickeringLight.uasset'
+[2023.05.23-13.40.21:382][586]AssetCheck: New page: Asset Save: BP_FlickeringLight
+[2023.05.23-13.40.21:382][586]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FlickeringLight.BP_FlickeringLight
+[2023.05.23-13.41.10:757][868]Cmd: TRANSACTION UNDO
+[2023.05.23-13.41.10:757][868]LogEditorTransaction: Undo Move Actors
+[2023.05.23-13.41.10:760][868]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.41.10:797][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.41.10:797][868]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.41.11:541][900]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.41.11:541][900]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.41.11:541][900]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.41.16:551][446]Cmd: TRANSACTION UNDO
+[2023.05.23-13.41.16:551][446]LogEditorTransaction: Undo Move Actors
+[2023.05.23-13.41.16:553][446]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.41.16:583][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.41.16:583][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.41.17:075][458]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.41.17:075][458]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.41.17:075][458]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.41.17:273][479]Cmd: TRANSACTION UNDO
+[2023.05.23-13.41.17:273][479]LogEditorTransaction: Undo Move Actors
+[2023.05.23-13.41.17:275][479]LogMaterial: Display: Missing cached shader map for material M_LightFlicker, compiling. 
+[2023.05.23-13.41.17:314][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.23-13.41.17:314][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.23-13.41.17:964][527]MaterialEditorStats: Base pass shader without light map: 40 instructions
+[2023.05.23-13.41.17:964][527]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.23-13.41.17:964][527]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.23-13.41.23:027][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.41.23:044][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.41.23:044][ 82]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:41:23 PM)
+[2023.05.23-13.41.23:068][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.41.23:073][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004950s)
+[2023.05.23-13.41.23:074][ 82]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.41.23:075][ 82]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2023.05.23-13.41.23:075][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.006839s)
+[2023.05.23-13.41.23:125][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.05.23-13.41.23:127][ 82]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.05.23-13.41.23:127][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.41.23:127][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.41.23:128][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.41.23:128][ 82]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.41.23:128][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.41.23:141][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.41.23:141][ 82]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.41.23:154][ 82]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.41.23:155][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.41.23:155][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.41.23:155][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.41.23:156][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.41.23:156][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.41.23:157][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.41.23:171][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.41.23:171][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.41.23:171][ 82]LogInit: FAudioDevice initialized.
+[2023.05.23-13.41.23:171][ 82]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_1'.
+[2023.05.23-13.41.23:184][ 82]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.41.23:186][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.41.23
+[2023.05.23-13.41.23:186][ 82]LogWorld: Bringing up level for play took: 0.001218
+[2023.05.23-13.41.23:186][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.05.23-13.41.23:191][ 82]PIE: Server logged in
+[2023.05.23-13.41.23:192][ 82]PIE: Play in editor total start time 0.157 seconds.
+[2023.05.23-13.41.26:888][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.41.26:888][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.41.26:888][514]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.41.26:888][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.41.26:898][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.41.26:915][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.41.26:957][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-13.41.26:957][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.41.26:958][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.41.26:975][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.41.26:979][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.05.23-13.41.27:030][515]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.23-13.41.31:071][923]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.23-13.41.34:223][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.05.23-13.41.35:212][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.05.23-13.41.35:639][402]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.05.23-13.41.40:347][911]LogEditorViewport: Clicking on Actor (LMB): BP_FlickeringLight_C (BP_FlickeringLight)
+[2023.05.23-13.42.14:461][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.05.23-13.42.14:477][912]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_Auto026DBDE754DE6E9BBA1D14691FDE85AA0.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Maps/Level_1_Auto0.umap'
+[2023.05.23-13.42.14:479][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.075
+[2023.05.23-13.42.14:479][912]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2023.05.23-13.43.06:355][  0]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.43.06:365][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.43.06:366][  0]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:43:06 PM)
+[2023.05.23-13.43.06:387][  0]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.06:390][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002888s)
+[2023.05.23-13.43.06:391][  0]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.43.06:391][  0]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2023.05.23-13.43.06:391][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004160s)
+[2023.05.23-13.43.06:437][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.05.23-13.43.06:439][  0]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.05.23-13.43.06:439][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.43.06:439][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.43.06:439][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.43.06:440][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.43.06:440][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.43.06:440][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.43.06:440][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.43.06:440][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.43.06:440][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.43.06:440][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.43.06:456][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.43.06:456][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.43.06:470][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.43.06:470][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.43.06:470][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.43.06:470][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.43.06:471][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.43.06:471][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.43.06:471][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.43.06:486][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.43.06:486][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.43.06:486][  0]LogInit: FAudioDevice initialized.
+[2023.05.23-13.43.06:486][  0]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_1'.
+[2023.05.23-13.43.06:494][  0]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.43.06:496][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.43.06
+[2023.05.23-13.43.06:497][  0]LogWorld: Bringing up level for play took: 0.001830
+[2023.05.23-13.43.06:497][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.05.23-13.43.06:501][  0]PIE: Server logged in
+[2023.05.23-13.43.06:502][  0]PIE: Play in editor total start time 0.14 seconds.
+[2023.05.23-13.43.11:349][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.11:349][572]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.11:349][572]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.43.11:350][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.11:364][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.43.11:377][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.11:416][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-13.43.11:416][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.11:417][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.11:433][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.11:437][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.05.23-13.43.11:484][573]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.23-13.43.23:002][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.05.23-13.43.23:030][817]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_14343225B48ACD9D29994C2BB8CEAADF2.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.43.23:083][817]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData78BF64D04ED457DB6ADEAB8CA92A01CA.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.43.23:106][817]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.43.23:106][817]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.43.23:106][817]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.43.23:881][897]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.43.23:889][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.43.23:889][897]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:43:23 PM)
+[2023.05.23-13.43.23:917][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.23:920][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002908s)
+[2023.05.23-13.43.23:921][897]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.43.23:921][897]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2023.05.23-13.43.23:921][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004143s)
+[2023.05.23-13.43.23:965][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2023.05.23-13.43.23:966][897]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.43.23:967][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.43.23:967][897]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.43.23:967][897]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.43.23:982][897]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.43.23:982][897]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.43.23:999][897]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.43.24:000][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.43.24:000][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.43.24:000][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.43.24:000][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.43.24:000][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.43.24:000][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.43.24:015][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.43.24:015][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.43.24:015][897]LogInit: FAudioDevice initialized.
+[2023.05.23-13.43.24:015][897]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_1'.
+[2023.05.23-13.43.24:021][897]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.43.24:022][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.43.24
+[2023.05.23-13.43.24:023][897]LogWorld: Bringing up level for play took: 0.001160
+[2023.05.23-13.43.24:023][897]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.05.23-13.43.24:026][897]PIE: Server logged in
+[2023.05.23-13.43.24:027][897]PIE: Play in editor total start time 0.139 seconds.
+[2023.05.23-13.43.30:519][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.30:519][662]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.30:519][662]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.43.30:520][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.30:534][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.43.30:546][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.30:585][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.30:586][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.30:587][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.30:611][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.05.23-13.43.30:665][663]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.23-13.43.34:347][ 32]MapCheck: New page: Map Check
+[2023.05.23-13.43.34:364][ 32]LightingResults: New page: Lighting Build - May 23, 2023, 7:43:34 PM
+[2023.05.23-13.43.34:374][ 32]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.23-13.43.34:379][ 32]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.23-13.43.34:379][ 32]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.23-13.43.34:380][ 32]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.23-13.43.34:380][ 32]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4956
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.23-13.43.38:889][ 32]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.23-13.43.38:954][ 32]LogEditorBuildUtils: Build time 0:04
+[2023.05.23-13.43.39:036][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.05.23-13.43.43:651][254]Job is a success!
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:          1: 20.0% covering 1.6% of volume
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:          2: 60.0% covering 0.1% of volume
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.23-13.43.43:835][255]LogVolumetricLightmapImport:          Level_1 			 5 bricks 	 100.0% (Persistent Level)
+[2023.05.23-13.43.43:981][255]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2023.05.23-13.43.43:981][255]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2023.05.23-13.43.43:981][255]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X128)
+[2023.05.23-13.43.43:981][255]LogStaticLightingSystem: Level_1_BuiltData storing lightmap data for 8 meshes in 2 LightmapResourceClusters (4.0 Meshes per cluster).
+[2023.05.23-13.43.44:031][255]Lightmass on STUDIOC: 3.98 sec total, 271 ms importing, 25 ms setup, 315 ms photons, 3.31 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 23.1 sec total, 7.06 sec processing.
+[2023.05.23-13.43.44:033][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.05.23-13.43.44:142][255]LogStaticLightingSystem: Illumination: 9.68 sec (87 ms encoding lightmaps, 40 ms encoding shadowmaps)
+[2023.05.23-13.43.44:142][255]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.05.23-13.43.44:142][255]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.05.23-13.43.44:911][255]DumpUnbuiltLightIteractions
+[2023.05.23-13.43.44:911][255]Lights with unbuilt interactions: 0
+[2023.05.23-13.43.44:911][255]
+[2023.05.23-13.43.44:911][255]Primitives with unbuilt interactions: 0
+[2023.05.23-13.43.44:959][256]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.23-13.43.44:959][256]MapCheck: New page: Level_1 - May 23, 2023, 7:43:44 PM
+[2023.05.23-13.43.44:959][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.344ms to complete.
+[2023.05.23-13.43.47:259][491]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-13.43.47:266][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-13.43.47:266][491]PIE: New page: PIE session: Level_1 (May 23, 2023, 7:43:47 PM)
+[2023.05.23-13.43.47:307][491]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.47:310][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2023.05.23-13.43.47:311][491]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-13.43.47:311][491]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2023.05.23-13.43.47:311][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004037s)
+[2023.05.23-13.43.47:360][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2023.05.23-13.43.47:363][491]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-13.43.47:363][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-13.43.47:363][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-13.43.47:364][491]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-13.43.47:364][491]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-13.43.47:379][491]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-13.43.47:379][491]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-13.43.47:393][491]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-13.43.47:393][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-13.43.47:393][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-13.43.47:394][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-13.43.47:394][491]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-13.43.47:394][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-13.43.47:394][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-13.43.47:407][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-13.43.47:407][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-13.43.47:407][491]LogInit: FAudioDevice initialized.
+[2023.05.23-13.43.47:407][491]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_1'.
+[2023.05.23-13.43.47:419][491]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-13.43.47:421][491]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-16.43.47
+[2023.05.23-13.43.47:421][491]LogWorld: Bringing up level for play took: 0.001497
+[2023.05.23-13.43.47:421][491]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.05.23-13.43.47:424][491]PIE: Server logged in
+[2023.05.23-13.43.47:425][491]PIE: Play in editor total start time 0.16 seconds.
+[2023.05.23-13.43.52:359][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.52:359][ 75]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-13.43.52:360][ 75]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-13.43.52:360][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.52:372][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-13.43.52:384][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-13.43.52:424][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-13.43.52:424][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.52:426][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-13.43.52:442][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-13.43.52:448][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2023.05.23-13.43.52:493][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.05.23-13.43.54:181][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.23-13.43.54:193][238]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_125A607564CCCAEC2E3A19CA3E44AA56A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.43.54:230][238]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData06F28F6B4FF1058DF1C3BA81DCFA19E0.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.43.54:255][238]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.43.54:255][238]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.43.54:255][238]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.44.22:254][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.23-13.44.22:266][559]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1E93F2F934E1CB5532369CA9F62D06EA2.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.44.22:319][559]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataF1854A464A4EF83F6FFC70AC2EA56D59.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.44.22:345][559]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.44.22:345][559]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.44.22:345][559]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-13.44.26:173][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.23-13.44.26:175][966]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2023.05.23-13.44.26:215][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.05.23-13.44.26:220][966]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/M_LightFlicker_Inst4D2B71FC4CD6656928D663A8265E275F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Materials/M_LightFlicker_Inst.uasset'
+[2023.05.23-13.44.26:245][966]AssetCheck: New page: Asset Save: M_LightFlicker_Inst
+[2023.05.23-13.44.26:245][966]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_LightFlicker_Inst.M_LightFlicker_Inst
+[2023.05.23-13.44.30:685][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.23-13.44.30:697][449]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_11E91F17B4920C0E347B128BEA4F0D7DA.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-13.44.30:745][449]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataE382447A46CA6DA7504048B0E7CC7923.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-13.44.30:770][449]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-13.44.30:770][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-13.44.30:771][449]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
