@@ -1605,3 +1605,641 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.23-11.47.25:150][471]AssetCheck: New page: Asset Save: multiple assets
 [2023.05.23-11.47.25:150][471]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
 [2023.05.23-11.47.25:150][471]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-11.49.07:604][162]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.23-11.49.07:619][162]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.23-11.49.12:523][737]LogContentBrowser: Attempting asset rename: NewFolder -> Grababble
+[2023.05.23-11.49.12:524][737]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.23-11.49.36:828][ 78]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.23-11.49.36:842][ 78]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.23-11.49.36:859][ 78]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.23-11.49.43:172][817]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PhysicsDoor
+[2023.05.23-11.49.43:177][817]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.23-11.49.44:947][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-11.51.19:278][439]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-11.51.19:381][439]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2023.05.23-11.51.19:870][483]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorB316D68D47069039171AD8A314D2F7F6.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-11.51.19:891][483]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-11.51.19:891][483]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-11.54.06:688][976]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-11.54.06:788][976]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2023.05.23-11.54.06:949][992]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-11.54.07:046][992]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2023.05.23-11.54.07:448][ 29]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorBFE235F94753C824B4250CA055031E93.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-11.54.07:469][ 29]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-11.54.07:469][ 29]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-11.56.24:209][947]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-11.56.24:311][947]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2023.05.23-11.56.24:317][947]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_4.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-11.57.14:302][667]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-11.57.14:399][667]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2023.05.23-11.57.14:403][667]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_5.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-11.57.14:785][699]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorA159DB8A4667B60AAA2D9DB7B2B7A23F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-11.57.14:814][699]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-11.57.14:814][699]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-11.58.09:376][120]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2023.05.23-11.58.09:378][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.073
+[2023.05.23-11.58.09:379][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor] ([1] browsable assets)...
+[2023.05.23-11.58.09:379][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor]
+[2023.05.23-11.58.09:385][120]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor_Auto52B67DE0B401A8D11E2B762B01F27FC3A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor_Auto5.uasset'
+[2023.05.23-11.58.09:390][120]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.05.23-11.58.21:896][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.05.23-11.58.21:922][972]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1EE22BE8541B1BF7545F153AD88BEDD45.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-11.58.21:983][972]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData88EC26AB4AC203796AE5C0B40BEE8973.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-11.58.22:007][972]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-11.58.22:007][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-11.58.22:007][972]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-11.58.22:866][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.05.23-11.58.22:877][ 48]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_116DE36324E4D06099B8A7197A1E9A414.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-11.58.22:940][ 48]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltDataFAACF1F54F120F1C698166B7343E7495.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-11.58.22:973][ 48]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-11.58.22:973][ 48]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-11.58.22:973][ 48]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-11.58.23:864][136]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-11.58.23:874][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-11.58.23:875][136]PIE: New page: PIE session: Level_1 (May 23, 2023, 5:58:23 PM)
+[2023.05.23-11.58.23:908][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-11.58.23:911][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003460s)
+[2023.05.23-11.58.23:912][136]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-11.58.23:912][136]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2023.05.23-11.58.23:912][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005064s)
+[2023.05.23-11.58.23:974][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2023.05.23-11.58.23:975][136]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.23-11.58.23:975][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-11.58.23:975][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-11.58.23:975][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-11.58.23:976][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-11.58.23:976][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-11.58.23:976][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-11.58.23:976][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-11.58.23:976][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-11.58.23:976][136]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-11.58.23:976][136]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-11.58.23:989][136]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-11.58.23:989][136]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-11.58.24:003][136]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-11.58.24:004][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-11.58.24:004][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-11.58.24:004][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-11.58.24:004][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-11.58.24:005][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-11.58.24:005][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-11.58.24:018][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-11.58.24:018][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-11.58.24:018][136]LogInit: FAudioDevice initialized.
+[2023.05.23-11.58.24:019][136]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_1'.
+[2023.05.23-11.58.24:027][136]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-11.58.24:029][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-14.58.24
+[2023.05.23-11.58.24:029][136]LogWorld: Bringing up level for play took: 0.001532
+[2023.05.23-11.58.24:030][136]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.05.23-11.58.24:033][136]PIE: Server logged in
+[2023.05.23-11.58.24:034][136]PIE: Play in editor total start time 0.165 seconds.
+[2023.05.23-11.58.31:749][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-11.58.31:749][ 26]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-11.58.31:750][ 26]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-11.58.31:750][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-11.58.31:764][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-11.58.31:780][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-11.58.31:834][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-11.58.31:834][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-11.58.31:835][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-11.58.31:852][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-11.58.31:859][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.05.23-11.58.31:890][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.23-11.58.35:243][382]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorDD22EE1943C9565433FF338C03C4C711.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-11.58.35:266][382]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-11.58.35:266][382]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-11.59.24:130][458]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.05.23-11.59.24:147][458]LogContentBrowser: Creating deferred item: NewInterface
+[2023.05.23-11.59.29:292][584]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2023.05.23-11.59.29:296][584]LogContentBrowser: End creating deferred item NewInterface
+[2023.05.23-11.59.33:852][ 90]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Grab
+[2023.05.23-11.59.33:874][ 90]LogMetaData: Removing '/Game/Blueprints/Interfaces/BPI_Grab.SKEL_BPI_Grab_C' ref from Metadata '/Game/Blueprints/Interfaces/NewInterface.PackageMetaData'
+[2023.05.23-11.59.33:874][ 90]LogMetaData: Removing '/Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab_C' ref from Metadata '/Game/Blueprints/Interfaces/NewInterface.PackageMetaData'
+[2023.05.23-11.59.33:895][ 90]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_GrabB5D61CAF4F89C7D76165C093EC7B09CB.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-11.59.34:041][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.05.23-11.59.34:112][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.05.23-11.59.34:165][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.23-11.59.34:216][ 90]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-11.59.34:216][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-11.59.35:842][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-11.59.58:674][411]LogContentBrowser: Attempting asset rename: BP_Itneraction -> BP_Interaction
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.BP_Interaction_C' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.SKEL_BP_Interaction_C' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.SKEL_BP_Interaction_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.BP_Interaction:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.BP_Interaction:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.SKEL_BP_Interaction_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:710][411]LogMetaData: Removing '/Game/Blueprints/Actors/Interaction/BP_Interaction.BP_Interaction_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actors/Interaction/BP_Itneraction.PackageMetaData'
+[2023.05.23-11.59.58:773][411]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_Interaction731F0CAB42B989235691EA830916D613.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Interaction/BP_Interaction.uasset'
+[2023.05.23-11.59.58:796][411]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_Itneraction939E1A1248078DA2B61A3F8FF994AF99.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Interaction/BP_Itneraction.uasset'
+[2023.05.23-11.59.58:867][411]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-11.59.58:867][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interaction/BP_Interaction.BP_Interaction
+[2023.05.23-11.59.58:867][411]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/Interaction/BP_Itneraction.BP_Itneraction
+[2023.05.23-11.59.58:867][411]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/Interaction/BP_Itneraction.Default__BP_Itneraction_C
+[2023.05.23-11.59.58:867][411]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Actors/Interaction/BP_Itneraction.BP_Itneraction_C
+[2023.05.23-12.00.00:924][547]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_Interaction_Door657645114814D3BD220A5C8E8DFF82AD.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Interaction/BP_Interaction_Door.uasset'
+[2023.05.23-12.00.00:945][547]AssetCheck: New page: Asset Save: BP_Interaction_Door
+[2023.05.23-12.00.00:945][547]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interaction/BP_Interaction_Door.BP_Interaction_Door
+[2023.05.23-12.00.01:999][615]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_Interaction_OutwardDoorC146BB654B75FD1CCB8AE984B5BBCF70.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Interaction/BP_Interaction_OutwardDoor.uasset'
+[2023.05.23-12.00.02:021][615]AssetCheck: New page: Asset Save: BP_Interaction_OutwardDoor
+[2023.05.23-12.00.02:021][615]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Interaction/BP_Interaction_OutwardDoor.BP_Interaction_OutwardDoor
+[2023.05.23-12.00.17:255][272]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.00.17:255][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.00.20:006][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.23-12.00.20:006][564]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.00.20:006][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.00.23:562][949]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.23-12.00.23:562][949]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.00.23:562][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.00.25:416][134]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_Grab6D4C1EC5415643D8E6291084AF2557B5.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-12.00.25:438][134]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-12.00.25:438][134]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-12.00.44:225][292]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_Grab306DEBE541B62AB31EC120ADFF9AED39.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-12.00.44:245][292]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-12.00.44:245][292]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-12.00.45:025][379]BlueprintLog: New page: Compile BPI_Grab
+[2023.05.23-12.00.45:197][379]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2023.05.23-12.00.45:701][432]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_Grab47CC117C404A6B04997E07BEEA95B5F4.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-12.00.45:721][432]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-12.00.45:721][432]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-12.01.14:887][276]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_Grab8C3957464865354E323AC5A9DB0E142A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-12.01.14:905][276]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-12.01.14:905][276]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-12.01.15:985][400]BlueprintLog: New page: Compile BPI_Grab
+[2023.05.23-12.01.16:147][400]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2023.05.23-12.01.16:485][433]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPI_Grab965CAE5946F95CF90473C586BC72509C.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Interfaces/BPI_Grab.uasset'
+[2023.05.23-12.01.16:502][433]AssetCheck: New page: Asset Save: BPI_Grab
+[2023.05.23-12.01.16:503][433]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_Grab.BPI_Grab
+[2023.05.23-12.01.39:011][  5]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.05.23-12.02.48:394][489]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.23-12.02.48:400][489]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.23-12.02.49:497][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.05.23-12.02.49:519][598]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1791C75924FA14D56B055B2ADD2500EC5.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-12.02.49:557][598]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData3DD218A549B96527A1620E9CA67CF847.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-12.02.49:576][598]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-12.02.49:576][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-12.02.49:576][598]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-12.04.50:842][946]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.23-12.04.57:312][689]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character2F82D1874E2D2FC09A2EBD99D24AF614.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.04.57:331][689]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.04.57:331][689]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.07.15:511][374]LogSlate: Took 0.007124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.23-12.07.24:417][153]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.23-12.07.27:194][431]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.23-12.07.27:201][431]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.23-12.08.19:396][827]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-12.08.19:472][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2023.05.23-12.08.19:927][865]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterC7EADBF64613952C7668CD8667CCF3E6.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.08.19:947][865]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.08.19:947][865]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.08.58:268][491]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character0A00B18E460DA11DC501488B69CF3543.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.08.58:288][491]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.08.58:288][491]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.08.59:175][584]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-12.08.59:247][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.05.23-12.09.20:579][403]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.23-12.11.43:414][443]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor80F879BC47ECE037E931D1B80A4A6962.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.11.43:434][443]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.11.43:434][443]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.11.44:126][521]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.11.44:199][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2023.05.23-12.11.44:209][521]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_6.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.11.44:545][551]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorB1E3D5724837311F5D9EA7898FC4150A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.11.44:567][551]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.11.44:567][551]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.12.25:840][986]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor159A3FC04E01DA8FC29885BE38E6E334.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.12.25:859][986]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.12.25:859][986]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.12.33:120][363]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.12.33:196][363]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2023.05.23-12.12.33:205][363]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_7.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.12.33:534][390]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor726C535F49B3F2CB7B5555A0934FC972.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.12.33:566][390]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.12.33:566][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.12.51:500][665]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.12.51:510][665]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.23-12.12.51:511][665]LogPlayLevel: [PlayLevel] Compiling BP_Interaction_Door before play...
+[2023.05.23-12.12.51:515][665]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'StaticMesh' for 'Door' in BlueprintGeneratedClass 'BP_Interaction_Door_C' (it may have been removed)
+[2023.05.23-12.12.51:538][665]LogPlayLevel: [PlayLevel] Compiling BP_Interaction_OutwardDoor before play...
+[2023.05.23-12.12.51:546][665]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'StaticMesh' for 'Door' in BlueprintGeneratedClass 'BP_Interaction_OutwardDoor_C' (it may have been removed)
+[2023.05.23-12.12.51:625][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.05.23-12.12.51:627][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (2 blueprints)
+[2023.05.23-12.12.51:627][665]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:12:51 PM)
+[2023.05.23-12.12.51:648][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.12.51:651][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003288s)
+[2023.05.23-12.12.51:652][665]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.12.51:653][665]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2023.05.23-12.12.51:653][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004780s)
+[2023.05.23-12.12.51:690][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.05.23-12.12.51:690][665]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.23-12.12.51:690][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.12.51:690][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.12.51:690][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.12.51:691][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.12.51:691][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.12.51:691][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.12.51:691][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.12.51:691][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.12.51:691][665]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.12.51:691][665]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.12.51:704][665]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.12.51:704][665]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.12.51:721][665]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.12.51:721][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.12.51:721][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.12.51:721][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.12.51:722][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.12.51:722][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.12.51:722][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.12.51:736][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.12.51:736][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.12.51:736][665]LogInit: FAudioDevice initialized.
+[2023.05.23-12.12.51:736][665]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_1'.
+[2023.05.23-12.12.51:749][665]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.12.51:750][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.12.51
+[2023.05.23-12.12.51:751][665]LogWorld: Bringing up level for play took: 0.001038
+[2023.05.23-12.12.51:751][665]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.05.23-12.12.51:754][665]PIE: Server logged in
+[2023.05.23-12.12.51:756][665]PIE: Play in editor total start time 0.248 seconds.
+[2023.05.23-12.12.56:639][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.12.56:639][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.12.56:640][230]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.12.56:640][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.12.56:652][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.12.56:666][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.12.56:698][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-12.12.56:698][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.12.56:699][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.12.56:716][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.12.56:721][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.05.23-12.12.56:752][231]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.23-12.13.00:068][610]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.13.00:068][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.14.18:992][814]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorE9B2970741C2DA89E9D81F854477B317.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.14.19:011][814]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.14.19:011][814]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.15.01:495][356]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor13CBF3E5422BBD8E60674CA38E4F9A06.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.15.01:515][356]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.15.01:515][356]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.15.38:493][248]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2023.05.23-12.15.38:561][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.05.23-12.15.38:574][248]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_Auto64420AB1A400383B3B15620968389F97A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Maps/Level_1_Auto6.umap'
+[2023.05.23-12.15.38:575][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.060
+[2023.05.23-12.15.38:575][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2023.05.23-12.15.38:576][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor] ([1] browsable assets)...
+[2023.05.23-12.15.38:596][248]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor]
+[2023.05.23-12.15.38:596][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor]
+[2023.05.23-12.15.38:610][248]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor_Auto6264AA702472A96D39ED5C692F739EB18.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor_Auto6.uasset'
+[2023.05.23-12.15.38:610][248]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.05.23-12.16.33:272][637]LogEditorTransaction: Undo Create Pin Link
+[2023.05.23-12.18.58:796][955]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor83138AEC4875240CAF664781C75F2C87.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.18.58:815][955]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.18.58:815][955]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.20.21:182][701]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.20.21:262][701]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.05.23-12.20.21:268][701]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_8.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.20.21:672][736]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor04883B4147A9F830C5C01C9C960E1C1E.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.20.21:696][736]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.20.21:696][736]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.21.01:141][ 56]BlueprintLog: New page: Compile LVL1_Character
+[2023.05.23-12.21.01:209][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.05.23-12.21.01:684][ 97]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character3199A5D14898AE58CF672EA5CA583E9B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.21.01:704][ 97]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.21.01:704][ 97]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.21.51:356][720]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character724FE6394229F92DF917869C4827C02F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.21.51:379][720]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.21.51:379][720]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.23.38:247][168]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character946B4DF0445D4EAEF1F488B648F0BF40.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.05.23-12.23.38:266][168]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.05.23-12.23.38:267][168]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.05.23-12.23.48:319][309]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor5AD6CE1543AF4D56C14AF1A889686AD3.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.23.48:337][309]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.23.48:337][309]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.25.26:149][244]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor579CB7D345C104BD2BEFA9BF0514FB50.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.25.26:169][244]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.25.26:169][244]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.25.51:811][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2023.05.23-12.25.51:823][ 51]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_Auto737F5750B4F8B622C7A3652ADC09E3355.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Maps/Level_1_Auto7.umap'
+[2023.05.23-12.25.51:825][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.062
+[2023.05.23-12.25.51:825][ 51]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.05.23-12.25.51:825][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor] ([1] browsable assets)...
+[2023.05.23-12.25.51:847][ 51]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor]
+[2023.05.23-12.25.51:847][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor]
+[2023.05.23-12.25.51:868][ 51]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor_Auto7FCCB77914C12DB297E00FAA22D6696CB.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Blueprints/Actors/Grababble/BP_PhysicsDoor_Auto7.uasset'
+[2023.05.23-12.25.51:869][ 51]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.05.23-12.26.17:885][692]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor54CF3D844359A05D12BC93BD89192466.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.26.17:905][692]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.26.17:905][692]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.26.59:143][581]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.26.59:220][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.05.23-12.26.59:227][581]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_9.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.26.59:606][612]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor3BAD99EC4EF4542B3CAA91BF5DD4FCA5.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.26.59:623][612]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.26.59:623][612]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.27.01:753][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.05.23-12.27.01:788][801]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1591751BC487A0E03838D8DB5938119E1.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-12.27.01:869][801]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData5049AACD4784132E61B27492677AF27F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-12.27.01:893][801]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-12.27.01:893][801]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-12.27.01:893][801]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-12.27.02:580][872]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.27.02:587][872]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.23-12.27.02:589][872]LogPlayLevel: [PlayLevel] Compiling LVL1_Character before play...
+[2023.05.23-12.27.02:678][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.05.23-12.27.02:679][872]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2023.05.23-12.27.02:679][872]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:27:02 PM)
+[2023.05.23-12.27.02:679][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.27.02:683][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2023.05.23-12.27.02:684][872]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.27.02:684][872]LogPlayLevel: PIE: World Init took: (0.001669s)
+[2023.05.23-12.27.02:685][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005086s)
+[2023.05.23-12.27.02:720][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.05.23-12.27.02:720][872]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.27.02:720][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.27.02:720][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.27.02:721][872]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.27.02:721][872]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.27.02:736][872]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.27.02:736][872]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.27.02:752][872]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.27.02:752][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.27.02:753][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.27.02:753][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.27.02:753][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.27.02:753][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.27.02:753][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.27.02:766][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.27.02:766][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.27.02:766][872]LogInit: FAudioDevice initialized.
+[2023.05.23-12.27.02:766][872]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2023.05.23-12.27.02:772][872]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.27.02:774][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.27.02
+[2023.05.23-12.27.02:774][872]LogWorld: Bringing up level for play took: 0.000974
+[2023.05.23-12.27.02:774][872]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.05.23-12.27.02:777][872]PIE: Server logged in
+[2023.05.23-12.27.02:777][872]PIE: Play in editor total start time 0.192 seconds.
+[2023.05.23-12.27.13:088][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.27.13:088][ 66]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.27.13:088][ 66]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.27.13:088][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.27.13:111][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.27.13:124][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.27.13:156][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-12.27.13:156][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.27.13:157][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.27.13:172][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.27.13:178][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.05.23-12.27.13:211][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.23-12.27.55:825][480]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.27.55:832][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-12.27.55:832][480]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:27:55 PM)
+[2023.05.23-12.27.55:858][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.27.55:864][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005706s)
+[2023.05.23-12.27.55:865][480]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.27.55:866][480]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2023.05.23-12.27.55:866][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.007847s)
+[2023.05.23-12.27.55:904][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.05.23-12.27.55:908][480]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.27.55:908][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.27.55:908][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.27.55:909][480]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.27.55:909][480]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.27.55:923][480]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.27.55:923][480]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.27.55:937][480]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.27.55:937][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.27.55:937][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.27.55:937][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.27.55:938][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.27.55:938][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.27.55:938][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.27.55:952][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.27.55:953][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.27.55:953][480]LogInit: FAudioDevice initialized.
+[2023.05.23-12.27.55:953][480]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_1'.
+[2023.05.23-12.27.55:966][480]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.27.55:967][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.27.55
+[2023.05.23-12.27.55:967][480]LogWorld: Bringing up level for play took: 0.000964
+[2023.05.23-12.27.55:967][480]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.05.23-12.27.55:970][480]PIE: Server logged in
+[2023.05.23-12.27.55:971][480]PIE: Play in editor total start time 0.14 seconds.
+[2023.05.23-12.28.50:798][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.28.50:798][801]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.28.50:799][801]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.28.50:799][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.28.50:808][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.28.50:822][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.28.50:854][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.28.50:855][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.28.50:856][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.28.50:877][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.05.23-12.28.50:909][802]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.05.23-12.29.58:878][359]LogEditorTransaction: Undo Move Node
+[2023.05.23-12.30.09:839][563]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.30.09:922][563]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2023.05.23-12.30.09:931][563]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_10.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.30.10:598][623]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor94AA56B743A2CAAD1CDE82BD095DB90C.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.30.10:629][623]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.30.10:629][623]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.31.07:203][996]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.31.07:206][996]LogBlueprint: Error: [AssetLog] J:\Dropbox\BASSLINE PROJECTS\INTERACTIVE PROJ\UE4\Unreal-Engine-Ultimate-Survival-Horror-Course\Survival_Horror\Content\Blueprints\Actors\Grababble\BP_PhysicsDoor.uasset: [Compiler] AutoCreateRefTerm Expansion: Assignment Error  Select
+[2023.05.23-12.31.07:208][996]LogBlueprint: Error: [AssetLog] J:\Dropbox\BASSLINE PROJECTS\INTERACTIVE PROJ\UE4\Unreal-Engine-Ultimate-Survival-Horror-Course\Survival_Horror\Content\Blueprints\Actors\Grababble\BP_PhysicsDoor.uasset: [Compiler] The type of  Index  is undetermined.  Connect something to  Select  to imply a specific type.
+[2023.05.23-12.31.07:209][996]LogBlueprint: Error: [AssetLog] J:\Dropbox\BASSLINE PROJECTS\INTERACTIVE PROJ\UE4\Unreal-Engine-Ultimate-Survival-Horror-Course\Survival_Horror\Content\Blueprints\Actors\Grababble\BP_PhysicsDoor.uasset: [Compiler] The current value of the ' Index ' pin is invalid: Unsupported type Index Wildcard on pin Index
+[2023.05.23-12.31.07:292][996]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2023.05.23-12.31.07:925][ 54]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorED9359744DB86F995A32238E95D8DAB6.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.31.07:954][ 54]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.31.07:954][ 54]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.34.21:012][119]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor19E3B8A541613A6DA48B6996CCEE369B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.34.21:032][119]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.34.21:032][119]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.34.41:609][547]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor9EACAB1241CDEC5342204D90FDF2DA9C.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.34.41:629][547]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.34.41:630][547]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.36.00:667][406]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorC196BFA5427C23EF3D63478AA4AD35FB.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.36.00:686][406]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.36.00:687][406]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.36.08:901][659]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.36.08:983][659]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2023.05.23-12.36.08:988][659]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_12.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.36.10:339][783]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoor0C398A99456ED88FD25E91926889B670.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.36.10:362][783]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.36.10:362][783]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.36.27:532][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.05.23-12.36.27:560][ 60]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_10E1DB52A4518B00E6ABE87AC978FBF67.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.05.23-12.36.27:593][ 60]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData8D86443D4F7220FAA781FE98AD190ECD.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.05.23-12.36.27:614][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.23-12.36.27:614][ 60]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.05.23-12.36.27:614][ 60]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.05.23-12.36.27:981][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.36.27:990][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-12.36.27:990][ 93]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:36:27 PM)
+[2023.05.23-12.36.27:990][ 93]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.36.27:994][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2023.05.23-12.36.27:995][ 93]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.36.27:995][ 93]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2023.05.23-12.36.27:995][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005264s)
+[2023.05.23-12.36.28:034][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.05.23-12.36.28:036][ 93]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.36.28:036][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.36.28:036][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.36.28:037][ 93]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.36.28:037][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.36.28:050][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.36.28:050][ 93]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.36.28:063][ 93]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.36.28:064][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.36.28:078][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.36.28:078][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.36.28:078][ 93]LogInit: FAudioDevice initialized.
+[2023.05.23-12.36.28:078][ 93]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_1'.
+[2023.05.23-12.36.28:091][ 93]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.36.28:093][ 93]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.36.28
+[2023.05.23-12.36.28:093][ 93]LogWorld: Bringing up level for play took: 0.001001
+[2023.05.23-12.36.28:093][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.05.23-12.36.28:096][ 93]PIE: Server logged in
+[2023.05.23-12.36.28:097][ 93]PIE: Play in editor total start time 0.111 seconds.
+[2023.05.23-12.36.42:778][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.36.42:778][800]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.36.42:778][800]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.36.42:779][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.36.42:811][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.36.42:823][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.36.42:855][800]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-12.36.42:855][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.36.42:856][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.36.42:872][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.36.42:876][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.05.23-12.36.42:908][801]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.23-12.36.43:744][887]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.36.43:750][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-12.36.43:750][887]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:36:43 PM)
+[2023.05.23-12.36.43:750][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.36.43:754][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003223s)
+[2023.05.23-12.36.43:755][887]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.36.43:755][887]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2023.05.23-12.36.43:755][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004755s)
+[2023.05.23-12.36.43:792][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.05.23-12.36.43:794][887]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.36.43:794][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.36.43:794][887]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.36.43:794][887]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.36.43:808][887]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.36.43:808][887]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.36.43:823][887]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.36.43:823][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.36.43:823][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.36.43:823][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.36.43:824][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.36.43:824][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.36.43:824][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.36.43:837][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.36.43:837][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.36.43:837][887]LogInit: FAudioDevice initialized.
+[2023.05.23-12.36.43:837][887]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_1'.
+[2023.05.23-12.36.43:850][887]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.36.43:852][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.36.43
+[2023.05.23-12.36.43:852][887]LogWorld: Bringing up level for play took: 0.001145
+[2023.05.23-12.36.43:852][887]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.05.23-12.36.43:855][887]PIE: Server logged in
+[2023.05.23-12.36.43:856][887]PIE: Play in editor total start time 0.107 seconds.
+[2023.05.23-12.36.44:779][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.36.44:779][990]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.36.44:779][990]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.36.44:779][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.36.44:787][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.36.44:799][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.36.44:831][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.36.44:831][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.36.44:832][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.36.44:853][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.05.23-12.36.44:875][991]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.23-12.36.47:780][266]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorF2DFA3B347274526952EBDA10187F8EE.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.36.47:800][266]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.36.47:800][266]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
+[2023.05.23-12.38.32:899][230]BlueprintLog: New page: Compile BP_PhysicsDoor
+[2023.05.23-12.38.32:985][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.05.23-12.38.32:991][230]PIE: Warning: Constraint in '/Engine/Transient.World_19:PersistentLevel.BP_PhysicsDoor_C_13.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2023.05.23-12.38.34:718][384]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.23-12.38.34:729][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-12.38.34:729][384]PIE: New page: PIE session: Level_1 (May 23, 2023, 6:38:34 PM)
+[2023.05.23-12.38.34:729][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.38.34:733][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003904s)
+[2023.05.23-12.38.34:735][384]LogAIModule: Creating AISystem for world Level_1
+[2023.05.23-12.38.34:735][384]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2023.05.23-12.38.34:735][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005959s)
+[2023.05.23-12.38.34:779][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.05.23-12.38.34:780][384]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-12.38.34:780][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.23-12.38.34:781][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-12.38.34:781][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-12.38.34:781][384]LogAudio: Display: Using built-in audio occlusion.
+[2023.05.23-12.38.34:781][384]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.23-12.38.34:797][384]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.23-12.38.34:797][384]LogAudioMixer: Display: 1: FrontRight
+[2023.05.23-12.38.34:812][384]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.05.23-12.38.34:812][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-12.38.34:812][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-12.38.34:812][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-12.38.34:813][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.23-12.38.34:813][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.23-12.38.34:813][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.23-12.38.34:826][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.23-12.38.34:826][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.23-12.38.34:826][384]LogInit: FAudioDevice initialized.
+[2023.05.23-12.38.34:826][384]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_1'.
+[2023.05.23-12.38.34:837][384]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.05.23-12.38.34:839][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.05.23-15.38.34
+[2023.05.23-12.38.34:839][384]LogWorld: Bringing up level for play took: 0.001261
+[2023.05.23-12.38.34:839][384]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.05.23-12.38.34:843][384]PIE: Server logged in
+[2023.05.23-12.38.34:844][384]PIE: Play in editor total start time 0.118 seconds.
+[2023.05.23-12.38.46:219][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.38.46:219][669]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.05.23-12.38.46:220][669]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-12.38.46:220][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.38.46:245][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-12.38.46:257][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-12.38.46:289][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-12.38.46:290][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.38.46:291][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.23-12.38.46:306][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-12.38.46:310][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.05.23-12.38.46:345][670]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.05.23-12.38.48:462][886]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BP_PhysicsDoorA70139E044241F903D1CD08AD14A6E9C.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/Actors/Grababble/BP_PhysicsDoor.uasset'
+[2023.05.23-12.38.48:491][886]AssetCheck: New page: Asset Save: BP_PhysicsDoor
+[2023.05.23-12.38.48:491][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Grababble/BP_PhysicsDoor.BP_PhysicsDoor
