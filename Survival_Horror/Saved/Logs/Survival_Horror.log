@@ -1566,3 +1566,883 @@ Exception rethrown at [0]:
 [2023.06.07-12.26.41:288][505]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement94FA323D4D963FDDB69A53AF61D27F9D.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
 [2023.06.07-12.26.41:319][505]AssetCheck: New page: Asset Save: BPC_Movement
 [2023.06.07-12.26.41:319][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.27.56:876][190]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement0EFED8B44733E13F6602F38A41CA4B40.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-12.27.56:895][190]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-12.27.56:895][190]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.47.27:417][724]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.07-12.47.45:567][309]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.07-12.47.45:572][309]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.07-12.47.46:517][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2023.06.07-12.47.46:533][400]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_152F52A0F4DF2E91695FA1DA601EC10D8.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1.umap'
+[2023.06.07-12.47.46:615][400]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Level_1_BuiltData4CF19AE94DCE0F9DACA331AEC6A7018A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Maps/Level_1_BuiltData.uasset'
+[2023.06.07-12.47.46:635][400]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.07-12.47.46:635][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2023.06.07-12.47.46:635][400]LogContentValidation: Display: Validating World /Game/Maps/Level_1.Level_1
+[2023.06.07-12.48.33:310][856]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.48.33:397][856]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2023.06.07-12.48.33:913][896]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement9C29C5C842C3F8B7EB5370B4447CBBFA.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-12.48.33:929][896]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-12.48.33:929][896]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.49.44:653][298]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.49.44:732][298]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2023.06.07-12.50.18:732][616]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.50.18:810][616]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2023.06.07-12.50.19:209][647]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_MovementEBDEA3F74F44D67036E6D2BE84D54C04.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-12.50.19:227][647]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-12.50.19:227][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.51.26:738][558]LogEditorTransaction: Undo Move Node
+[2023.06.07-12.51.44:706][ 30]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.51.44:786][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.06.07-12.51.45:152][ 58]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement90F02B994958FCB442CF23B961CC4FAE.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-12.51.45:171][ 58]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-12.51.45:171][ 58]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.52.16:892][463]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.52.16:976][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.06.07-12.52.36:401][943]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-12.52.36:482][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2023.06.07-12.52.36:924][979]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement31426B59431488EDF48FE28614FB9FE2.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-12.52.36:963][979]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-12.52.36:963][979]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-12.53.27:128][492]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterBC942BBB4F7D8030D530BD8397CABAE2.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-12.53.27:145][492]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-12.53.27:145][492]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-12.56.07:425][429]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-12.56.07:514][429]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2023.06.07-12.56.07:857][458]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character1B7579B141AB08FCFD22A1A787E375CC.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-12.56.07:873][458]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-12.56.07:873][458]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-12.58.51:305][411]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-12.58.51:393][411]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2023.06.07-12.58.52:062][465]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character626ACF3D485271DF5FA2FBB95DC1FA12.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-12.58.52:098][465]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-12.58.52:099][465]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-12.59.43:751][327]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-12.59.43:834][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2023.06.07-12.59.44:196][353]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character65BDB22F4C7EB762B445EA97FE07DEF0.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-12.59.44:227][353]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-12.59.44:227][353]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.01.11:681][497]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.01.11:777][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.06.07-13.01.12:164][525]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement0D62CD6048BCCA48CE1BBCA75D0AE871.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.01.12:183][525]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.01.12:184][525]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.01.24:018][861]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement9509B580479583A2C743C39285835773.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.01.24:034][861]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.01.24:034][861]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.02.00:411][439]LogEditorTransaction: Undo Add Node
+[2023.06.07-13.02.03:305][719]LogEditorTransaction: Undo Add Node
+[2023.06.07-13.02.07:935][234]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.02.08:019][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.06.07-13.02.08:437][267]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement25D025804B98BBE0666B90B962D8ACFD.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.02.08:460][267]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.02.08:460][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.02.54:473][231]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.02.54:552][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.06.07-13.02.54:964][260]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_MovementAD3E051C4A909667C9F05A8DCB8CADD0.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.02.54:983][260]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.02.54:983][260]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.03.29:476][916]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.03.29:555][916]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.06.07-13.03.29:912][940]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_MovementB47756934DC1A049BCE80CAE91B4E390.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.03.29:930][940]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.03.29:930][940]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.03.50:127][136]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.03.50:205][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.06.07-13.03.50:659][172]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement7FC491A743554F21B2B3EB9A46E12F07.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.03.50:677][172]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.03.50:677][172]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.04.00:686][854]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.04.00:765][854]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2023.06.07-13.04.01:111][877]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement56CC0F1644927F6A9C6FEA9B717BC876.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.04.01:140][877]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.04.01:140][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.05.19:883][515]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement645B00444FCA1A109FDA0190F1B3B9BB.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.05.19:904][515]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.05.19:904][515]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.08.05:656][411]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.08.05:763][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.06.07-13.08.06:115][435]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character8BF3BC514B2B9AB8EBBF719134C40D02.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.08.06:135][435]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.08.06:136][435]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.08.51:099][527]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.08.51:183][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2023.06.07-13.08.51:655][567]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterDE7B326C403369396FBC0BB4CB85D84B.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.08.51:673][567]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.08.51:673][567]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.08.57:532][196]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.08.57:615][196]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2023.06.07-13.08.57:984][222]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement714A6BCF4FCBAE089762469942F65041.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.08.58:007][222]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.08.58:008][222]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.09.32:594][366]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.09.32:705][366]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2023.06.07-13.09.33:056][388]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character61F9B245448DFEC8B3370C862FA6C23A.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.09.33:082][388]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.09.33:083][388]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.11.20:519][761]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.11.20:519][761]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.11.36:597][597]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.11.36:597][597]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.11.53:414][580]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.11.53:518][580]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2023.06.07-13.11.53:841][600]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterE305160A433154DD57047DB6CB42F82F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.11.53:877][600]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.11.53:877][600]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.14.49:400][105]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.14.49:500][105]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2023.06.07-13.14.50:007][146]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character0A53EE1E4BA541A628352795C6484F16.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.14.50:058][146]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.14.50:058][146]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.21.06:105][512]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.21.06:106][512]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.21.49:870][207]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.21.49:870][207]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.23.54:895][ 53]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.23.54:997][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2023.06.07-13.24.08:757][484]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement8521B6954B4157384BCBD489908EBDCE.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.24.08:776][484]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.24.08:776][484]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.25.02:114][319]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.25.02:192][319]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2023.06.07-13.25.02:676][344]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement25C935D04E01C4A4601D4E9A10650882.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.25.02:693][344]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.25.02:693][344]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.26.14:029][645]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2023.06.07-13.26.14:030][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_1' took 0.051
+[2023.06.07-13.26.14:031][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BlueprintsComponents/BPC_Movement] ([1] browsable assets)...
+[2023.06.07-13.26.14:031][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BlueprintsComponents/BPC_Movement]
+[2023.06.07-13.26.14:075][645]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement_Auto4F1B5B442452F3FEB325BA19C68E890F3.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/Autosaves/Game/Blueprints/BlueprintsComponents/BPC_Movement_Auto4.uasset'
+[2023.06.07-13.26.14:076][645]LogFileHelpers: Auto-saving content packages took 0.046
+[2023.06.07-13.26.50:995][905]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.26.51:079][905]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2023.06.07-13.26.52:751][ 65]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_MovementB319243F4B2E25501E8E1D8BA7761E28.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.26.52:782][ 65]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.26.52:782][ 65]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.27.10:944][ 50]BlueprintLog: New page: Compile LVL1_Character
+[2023.06.07-13.27.11:050][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2023.06.07-13.27.11:488][ 81]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_Character5D0C852B448B2BAB0B6BDD9F5F19430F.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.27.11:505][ 81]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.27.11:505][ 81]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
+[2023.06.07-13.27.13:681][297]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.07-13.27.13:687][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.27.13:687][297]PIE: New page: PIE session: Level_1 (Jun 7, 2023, 7:27:13 PM)
+[2023.06.07-13.27.13:718][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.27.13:724][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005899s)
+[2023.06.07-13.27.13:725][297]LogAIModule: Creating AISystem for world Level_1
+[2023.06.07-13.27.13:725][297]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2023.06.07-13.27.13:725][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.007664s)
+[2023.06.07-13.27.13:772][297]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2023.06.07-13.27.13:773][297]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.07-13.27.13:773][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.27.13:773][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.27.13:774][297]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.07-13.27.13:774][297]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.07-13.27.13:788][297]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.07-13.27.13:788][297]LogAudioMixer: Display: 1: FrontRight
+[2023.06.07-13.27.13:802][297]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.06.07-13.27.13:802][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.27.13:802][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.27.13:802][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.27.13:803][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.07-13.27.13:803][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.07-13.27.13:803][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.07-13.27.13:820][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.07-13.27.13:820][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.07-13.27.13:820][297]LogInit: FAudioDevice initialized.
+[2023.06.07-13.27.13:820][297]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2023.06.07-13.27.13:827][297]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.06.07-13.27.13:830][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.06.07-16.27.13
+[2023.06.07-13.27.13:830][297]LogWorld: Bringing up level for play took: 0.001478
+[2023.06.07-13.27.13:830][297]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.06.07-13.27.13:833][297]PIE: Server logged in
+[2023.06.07-13.27.13:834][297]PIE: Play in editor total start time 0.148 seconds.
+[2023.06.07-13.27.18:755][885]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.06.07-13.27.18:856][897]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.06.07-13.27.18:955][909]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.06.07-13.27.19:055][921]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.06.07-13.27.19:156][933]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.06.07-13.27.19:256][945]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.06.07-13.27.19:356][957]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.06.07-13.27.19:457][969]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.06.07-13.27.19:556][981]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.06.07-13.27.19:657][993]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.06.07-13.27.19:757][  5]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.06.07-13.27.19:856][ 17]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.06.07-13.27.19:956][ 29]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.06.07-13.27.20:057][ 41]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.06.07-13.27.20:157][ 53]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.06.07-13.27.20:257][ 65]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.06.07-13.27.20:357][ 77]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.06.07-13.27.20:457][ 89]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.06.07-13.27.20:557][101]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.06.07-13.27.20:658][113]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.06.07-13.27.20:757][125]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.06.07-13.27.20:858][137]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.06.07-13.27.20:958][149]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.06.07-13.27.21:116][168]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.06.07-13.27.21:216][180]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.06.07-13.27.21:316][192]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.06.07-13.27.21:415][204]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.06.07-13.27.21:515][216]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.06.07-13.27.21:616][228]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.06.07-13.27.21:716][240]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.06.07-13.27.22:116][288]LogBlueprintUserMessages: [BPC_Movement] 69.0
+[2023.06.07-13.27.22:216][300]LogBlueprintUserMessages: [BPC_Movement] 68.0
+[2023.06.07-13.27.22:316][312]LogBlueprintUserMessages: [BPC_Movement] 67.0
+[2023.06.07-13.27.22:416][324]LogBlueprintUserMessages: [BPC_Movement] 66.0
+[2023.06.07-13.27.22:516][336]LogBlueprintUserMessages: [BPC_Movement] 65.0
+[2023.06.07-13.27.22:617][348]LogBlueprintUserMessages: [BPC_Movement] 64.0
+[2023.06.07-13.27.22:716][360]LogBlueprintUserMessages: [BPC_Movement] 63.0
+[2023.06.07-13.27.22:816][372]LogBlueprintUserMessages: [BPC_Movement] 62.0
+[2023.06.07-13.27.22:917][384]LogBlueprintUserMessages: [BPC_Movement] 61.0
+[2023.06.07-13.27.23:017][396]LogBlueprintUserMessages: [BPC_Movement] 60.0
+[2023.06.07-13.27.23:217][420]LogBlueprintUserMessages: [BPC_Movement] 59.0
+[2023.06.07-13.27.23:316][432]LogBlueprintUserMessages: [BPC_Movement] 58.0
+[2023.06.07-13.27.23:417][444]LogBlueprintUserMessages: [BPC_Movement] 57.0
+[2023.06.07-13.27.23:517][456]LogBlueprintUserMessages: [BPC_Movement] 56.0
+[2023.06.07-13.27.23:616][468]LogBlueprintUserMessages: [BPC_Movement] 55.0
+[2023.06.07-13.27.23:717][480]LogBlueprintUserMessages: [BPC_Movement] 54.0
+[2023.06.07-13.27.23:817][492]LogBlueprintUserMessages: [BPC_Movement] 53.0
+[2023.06.07-13.27.23:917][504]LogBlueprintUserMessages: [BPC_Movement] 52.0
+[2023.06.07-13.27.24:017][516]LogBlueprintUserMessages: [BPC_Movement] 51.0
+[2023.06.07-13.27.24:117][528]LogBlueprintUserMessages: [BPC_Movement] 50.0
+[2023.06.07-13.27.24:217][540]LogBlueprintUserMessages: [BPC_Movement] 49.0
+[2023.06.07-13.27.24:385][560]LogBlueprintUserMessages: [BPC_Movement] 48.0
+[2023.06.07-13.27.24:485][572]LogBlueprintUserMessages: [BPC_Movement] 47.0
+[2023.06.07-13.27.24:585][584]LogBlueprintUserMessages: [BPC_Movement] 46.0
+[2023.06.07-13.27.24:685][596]LogBlueprintUserMessages: [BPC_Movement] 45.0
+[2023.06.07-13.27.24:785][608]LogBlueprintUserMessages: [BPC_Movement] 44.0
+[2023.06.07-13.27.24:884][620]LogBlueprintUserMessages: [BPC_Movement] 43.0
+[2023.06.07-13.27.24:984][632]LogBlueprintUserMessages: [BPC_Movement] 42.0
+[2023.06.07-13.27.25:084][644]LogBlueprintUserMessages: [BPC_Movement] 41.0
+[2023.06.07-13.27.25:184][656]LogBlueprintUserMessages: [BPC_Movement] 40.0
+[2023.06.07-13.27.25:284][668]LogBlueprintUserMessages: [BPC_Movement] 39.0
+[2023.06.07-13.27.25:384][680]LogBlueprintUserMessages: [BPC_Movement] 38.0
+[2023.06.07-13.27.26:585][824]LogBlueprintUserMessages: [BPC_Movement] 37.0
+[2023.06.07-13.27.26:685][836]LogBlueprintUserMessages: [BPC_Movement] 36.0
+[2023.06.07-13.27.26:786][848]LogBlueprintUserMessages: [BPC_Movement] 35.0
+[2023.06.07-13.27.26:886][860]LogBlueprintUserMessages: [BPC_Movement] 34.0
+[2023.06.07-13.27.26:986][872]LogBlueprintUserMessages: [BPC_Movement] 33.0
+[2023.06.07-13.27.27:086][884]LogBlueprintUserMessages: [BPC_Movement] 32.0
+[2023.06.07-13.27.27:188][896]LogBlueprintUserMessages: [BPC_Movement] 31.0
+[2023.06.07-13.27.27:287][908]LogBlueprintUserMessages: [BPC_Movement] 30.0
+[2023.06.07-13.27.27:387][920]LogBlueprintUserMessages: [BPC_Movement] 29.0
+[2023.06.07-13.27.27:487][932]LogBlueprintUserMessages: [BPC_Movement] 28.0
+[2023.06.07-13.27.27:587][944]LogBlueprintUserMessages: [BPC_Movement] 27.0
+[2023.06.07-13.27.27:688][956]LogBlueprintUserMessages: [BPC_Movement] 26.0
+[2023.06.07-13.27.27:788][968]LogBlueprintUserMessages: [BPC_Movement] 25.0
+[2023.06.07-13.27.27:888][980]LogBlueprintUserMessages: [BPC_Movement] 24.0
+[2023.06.07-13.27.28:021][996]LogBlueprintUserMessages: [BPC_Movement] 23.0
+[2023.06.07-13.27.28:121][  8]LogBlueprintUserMessages: [BPC_Movement] 22.0
+[2023.06.07-13.27.28:221][ 20]LogBlueprintUserMessages: [BPC_Movement] 21.0
+[2023.06.07-13.27.28:322][ 32]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2023.06.07-13.27.28:422][ 44]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2023.06.07-13.27.28:522][ 56]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2023.06.07-13.27.28:622][ 68]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2023.06.07-13.27.29:722][200]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2023.06.07-13.27.29:822][212]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2023.06.07-13.27.29:922][224]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2023.06.07-13.27.30:023][236]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2023.06.07-13.27.30:123][248]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2023.06.07-13.27.30:223][260]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2023.06.07-13.27.31:765][445]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2023.06.07-13.27.31:865][457]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2023.06.07-13.27.31:965][469]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2023.06.07-13.27.32:065][481]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2023.06.07-13.27.32:165][493]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2023.06.07-13.27.32:265][505]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2023.06.07-13.27.32:365][517]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2023.06.07-13.27.32:565][541]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2023.06.07-13.27.32:665][553]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2023.06.07-13.27.32:766][565]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2023.06.07-13.27.33:339][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.27.33:339][631]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.27.33:339][631]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.27.33:340][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.27.33:349][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.27.33:374][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.27.33:413][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.07-13.27.33:413][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.27.33:414][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.27.33:430][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.27.33:435][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.06.07-13.27.33:482][632]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.06.07-13.30.03:007][164]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.30.03:007][164]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.07-13.31.08:723][143]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.07-13.31.08:729][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.31.08:729][143]PIE: New page: PIE session: Level_1 (Jun 7, 2023, 7:31:08 PM)
+[2023.06.07-13.31.08:768][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.31.08:772][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003822s)
+[2023.06.07-13.31.08:773][143]LogAIModule: Creating AISystem for world Level_1
+[2023.06.07-13.31.08:773][143]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2023.06.07-13.31.08:773][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005362s)
+[2023.06.07-13.31.08:816][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.06.07-13.31.08:819][143]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.07-13.31.08:819][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.31.08:819][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.31.08:820][143]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.07-13.31.08:820][143]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.07-13.31.08:834][143]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.07-13.31.08:834][143]LogAudioMixer: Display: 1: FrontRight
+[2023.06.07-13.31.08:848][143]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.06.07-13.31.08:848][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.31.08:848][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.31.08:848][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.31.08:849][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.07-13.31.08:849][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.07-13.31.08:849][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.07-13.31.08:863][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.07-13.31.08:864][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.07-13.31.08:864][143]LogInit: FAudioDevice initialized.
+[2023.06.07-13.31.08:864][143]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2023.06.07-13.31.08:870][143]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.06.07-13.31.08:872][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.06.07-16.31.08
+[2023.06.07-13.31.08:873][143]LogWorld: Bringing up level for play took: 0.001510
+[2023.06.07-13.31.08:873][143]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.06.07-13.31.08:876][143]PIE: Server logged in
+[2023.06.07-13.31.08:877][143]PIE: Play in editor total start time 0.149 seconds.
+[2023.06.07-13.31.10:137][293]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.06.07-13.31.10:237][305]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.06.07-13.31.10:337][317]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.06.07-13.31.10:439][329]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.06.07-13.31.10:539][341]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.06.07-13.31.10:639][353]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.06.07-13.31.10:739][365]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.06.07-13.31.10:839][377]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.06.07-13.31.10:939][389]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.06.07-13.31.11:039][401]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.06.07-13.31.11:139][413]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.06.07-13.31.11:239][425]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.06.07-13.31.11:339][437]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.06.07-13.31.11:439][449]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.06.07-13.31.11:638][473]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.06.07-13.31.11:739][485]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.06.07-13.31.11:839][497]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.06.07-13.31.11:939][509]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.06.07-13.31.12:039][521]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.06.07-13.31.12:139][533]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.06.07-13.31.12:240][545]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.06.07-13.31.12:340][557]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.06.07-13.31.12:440][569]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.06.07-13.31.12:540][581]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.06.07-13.31.12:640][593]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.06.07-13.31.12:740][605]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.06.07-13.31.12:840][617]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.06.07-13.31.13:341][677]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.06.07-13.31.13:441][689]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.06.07-13.31.13:541][701]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.06.07-13.31.13:640][713]LogBlueprintUserMessages: [BPC_Movement] 69.0
+[2023.06.07-13.31.13:740][725]LogBlueprintUserMessages: [BPC_Movement] 68.0
+[2023.06.07-13.31.13:840][737]LogBlueprintUserMessages: [BPC_Movement] 67.0
+[2023.06.07-13.31.13:944][749]LogBlueprintUserMessages: [BPC_Movement] 66.0
+[2023.06.07-13.31.14:039][760]LogBlueprintUserMessages: [BPC_Movement] 65.0
+[2023.06.07-13.31.14:181][777]LogBlueprintUserMessages: [BPC_Movement] 64.0
+[2023.06.07-13.31.14:281][789]LogBlueprintUserMessages: [BPC_Movement] 63.0
+[2023.06.07-13.31.14:381][801]LogBlueprintUserMessages: [BPC_Movement] 62.0
+[2023.06.07-13.31.14:481][813]LogBlueprintUserMessages: [BPC_Movement] 61.0
+[2023.06.07-13.31.14:581][825]LogBlueprintUserMessages: [BPC_Movement] 60.0
+[2023.06.07-13.31.14:681][837]LogBlueprintUserMessages: [BPC_Movement] 59.0
+[2023.06.07-13.31.14:782][849]LogBlueprintUserMessages: [BPC_Movement] 58.0
+[2023.06.07-13.31.14:882][861]LogBlueprintUserMessages: [BPC_Movement] 57.0
+[2023.06.07-13.31.15:582][945]LogBlueprintUserMessages: [BPC_Movement] 56.0
+[2023.06.07-13.31.15:682][957]LogBlueprintUserMessages: [BPC_Movement] 55.0
+[2023.06.07-13.31.15:782][969]LogBlueprintUserMessages: [BPC_Movement] 54.0
+[2023.06.07-13.31.15:882][981]LogBlueprintUserMessages: [BPC_Movement] 53.0
+[2023.06.07-13.31.15:982][993]LogBlueprintUserMessages: [BPC_Movement] 52.0
+[2023.06.07-13.31.16:083][  5]LogBlueprintUserMessages: [BPC_Movement] 51.0
+[2023.06.07-13.31.17:783][209]LogBlueprintUserMessages: [BPC_Movement] 50.0
+[2023.06.07-13.31.17:883][221]LogBlueprintUserMessages: [BPC_Movement] 49.0
+[2023.06.07-13.31.17:983][233]LogBlueprintUserMessages: [BPC_Movement] 48.0
+[2023.06.07-13.31.18:083][245]LogBlueprintUserMessages: [BPC_Movement] 47.0
+[2023.06.07-13.31.18:183][257]LogBlueprintUserMessages: [BPC_Movement] 46.0
+[2023.06.07-13.31.18:283][269]LogBlueprintUserMessages: [BPC_Movement] 45.0
+[2023.06.07-13.31.18:384][281]LogBlueprintUserMessages: [BPC_Movement] 44.0
+[2023.06.07-13.31.18:485][293]LogBlueprintUserMessages: [BPC_Movement] 43.0
+[2023.06.07-13.31.18:584][305]LogBlueprintUserMessages: [BPC_Movement] 42.0
+[2023.06.07-13.31.19:085][365]LogBlueprintUserMessages: [BPC_Movement] 41.0
+[2023.06.07-13.31.19:185][377]LogBlueprintUserMessages: [BPC_Movement] 40.0
+[2023.06.07-13.31.19:284][389]LogBlueprintUserMessages: [BPC_Movement] 39.0
+[2023.06.07-13.31.19:384][401]LogBlueprintUserMessages: [BPC_Movement] 38.0
+[2023.06.07-13.31.19:485][413]LogBlueprintUserMessages: [BPC_Movement] 37.0
+[2023.06.07-13.31.19:586][425]LogBlueprintUserMessages: [BPC_Movement] 36.0
+[2023.06.07-13.31.19:686][437]LogBlueprintUserMessages: [BPC_Movement] 35.0
+[2023.06.07-13.31.19:786][449]LogBlueprintUserMessages: [BPC_Movement] 34.0
+[2023.06.07-13.31.19:886][461]LogBlueprintUserMessages: [BPC_Movement] 33.0
+[2023.06.07-13.31.19:985][473]LogBlueprintUserMessages: [BPC_Movement] 32.0
+[2023.06.07-13.31.20:086][485]LogBlueprintUserMessages: [BPC_Movement] 31.0
+[2023.06.07-13.31.21:486][653]LogBlueprintUserMessages: [BPC_Movement] 30.0
+[2023.06.07-13.31.21:586][665]LogBlueprintUserMessages: [BPC_Movement] 29.0
+[2023.06.07-13.31.21:686][677]LogBlueprintUserMessages: [BPC_Movement] 28.0
+[2023.06.07-13.31.21:787][689]LogBlueprintUserMessages: [BPC_Movement] 27.0
+[2023.06.07-13.31.21:887][701]LogBlueprintUserMessages: [BPC_Movement] 26.0
+[2023.06.07-13.31.21:987][713]LogBlueprintUserMessages: [BPC_Movement] 25.0
+[2023.06.07-13.31.22:087][725]LogBlueprintUserMessages: [BPC_Movement] 24.0
+[2023.06.07-13.31.22:188][737]LogBlueprintUserMessages: [BPC_Movement] 23.0
+[2023.06.07-13.31.22:287][749]LogBlueprintUserMessages: [BPC_Movement] 22.0
+[2023.06.07-13.31.22:387][761]LogBlueprintUserMessages: [BPC_Movement] 21.0
+[2023.06.07-13.31.22:487][773]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2023.06.07-13.31.22:587][785]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2023.06.07-13.31.22:687][797]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2023.06.07-13.31.22:787][809]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2023.06.07-13.31.22:888][821]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2023.06.07-13.31.22:988][833]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2023.06.07-13.31.23:088][845]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2023.06.07-13.31.23:188][857]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2023.06.07-13.31.23:288][869]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2023.06.07-13.31.23:388][881]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2023.06.07-13.31.23:488][893]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2023.06.07-13.31.23:590][905]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2023.06.07-13.31.23:689][917]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2023.06.07-13.31.23:788][929]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2023.06.07-13.31.23:889][941]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2023.06.07-13.31.23:990][953]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2023.06.07-13.31.24:089][965]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2023.06.07-13.31.24:190][977]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2023.06.07-13.31.24:289][989]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2023.06.07-13.31.24:389][  1]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2023.06.07-13.31.24:489][ 13]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.24:589][ 25]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.24:682][ 36]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.24:782][ 48]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.24:882][ 60]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.24:983][ 72]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:083][ 84]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:183][ 96]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:283][108]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:383][120]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:484][132]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:584][144]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:684][156]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:784][168]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:883][180]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.25:983][192]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:084][204]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:183][216]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:284][228]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:384][240]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:484][252]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:585][264]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:684][276]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:784][288]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:884][300]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.26:987][312]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:088][324]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:187][336]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:287][348]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:387][360]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:487][372]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:587][384]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:688][396]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:788][408]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:887][420]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.27:987][432]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.28:087][444]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.31.29:218][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.31.29:218][574]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.31.29:218][574]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.31.29:218][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.31.29:227][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.31.29:251][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.31.29:289][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.31.29:290][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.31.29:291][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.31.29:313][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.06.07-13.31.29:361][575]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.07-13.32.36:837][141]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.07-13.32.36:843][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.32.36:843][141]PIE: New page: PIE session: Level_1 (Jun 7, 2023, 7:32:36 PM)
+[2023.06.07-13.32.36:868][141]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.32.36:870][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003190s)
+[2023.06.07-13.32.36:871][141]LogAIModule: Creating AISystem for world Level_1
+[2023.06.07-13.32.36:871][141]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2023.06.07-13.32.36:871][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.004428s)
+[2023.06.07-13.32.36:917][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.06.07-13.32.36:919][141]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.07-13.32.36:919][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.32.36:919][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.32.36:919][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.32.36:919][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.32.36:919][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.32.36:920][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.07-13.32.36:920][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.32.36:920][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.32.36:920][141]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.07-13.32.36:920][141]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.07-13.32.36:933][141]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.07-13.32.36:933][141]LogAudioMixer: Display: 1: FrontRight
+[2023.06.07-13.32.36:948][141]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.06.07-13.32.36:949][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.32.36:949][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.32.36:949][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.32.36:949][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.07-13.32.36:949][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.07-13.32.36:949][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.07-13.32.36:964][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.07-13.32.36:964][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.07-13.32.36:964][141]LogInit: FAudioDevice initialized.
+[2023.06.07-13.32.36:964][141]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_1'.
+[2023.06.07-13.32.36:971][141]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.06.07-13.32.36:972][141]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.06.07-16.32.36
+[2023.06.07-13.32.36:973][141]LogWorld: Bringing up level for play took: 0.001331
+[2023.06.07-13.32.36:973][141]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.06.07-13.32.36:977][141]PIE: Server logged in
+[2023.06.07-13.32.36:978][141]PIE: Play in editor total start time 0.137 seconds.
+[2023.06.07-13.32.40:817][600]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.06.07-13.32.40:917][612]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.06.07-13.32.41:017][624]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.06.07-13.32.41:116][636]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.06.07-13.32.41:217][648]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.06.07-13.32.41:318][660]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.06.07-13.32.41:418][672]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.06.07-13.32.41:518][684]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.06.07-13.32.42:119][756]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.06.07-13.32.42:218][768]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.06.07-13.32.42:319][780]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.06.07-13.32.42:419][792]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.06.07-13.32.42:518][804]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.06.07-13.32.42:618][816]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.06.07-13.32.42:718][828]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.06.07-13.32.42:818][840]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.06.07-13.32.44:453][ 36]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.06.07-13.32.44:553][ 48]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.06.07-13.32.44:653][ 60]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.06.07-13.32.44:752][ 72]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.06.07-13.32.44:852][ 84]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.06.07-13.32.44:952][ 96]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.06.07-13.32.45:053][108]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.06.07-13.32.45:453][156]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.06.07-13.32.45:553][168]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.06.07-13.32.45:653][180]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.06.07-13.32.45:753][192]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.06.07-13.32.45:853][204]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.06.07-13.32.45:953][216]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.06.07-13.32.46:053][228]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.06.07-13.32.46:154][240]LogBlueprintUserMessages: [BPC_Movement] 69.0
+[2023.06.07-13.32.46:254][252]LogBlueprintUserMessages: [BPC_Movement] 68.0
+[2023.06.07-13.32.46:354][264]LogBlueprintUserMessages: [BPC_Movement] 67.0
+[2023.06.07-13.32.46:455][276]LogBlueprintUserMessages: [BPC_Movement] 66.0
+[2023.06.07-13.32.46:554][288]LogBlueprintUserMessages: [BPC_Movement] 65.0
+[2023.06.07-13.32.46:653][300]LogBlueprintUserMessages: [BPC_Movement] 64.0
+[2023.06.07-13.32.46:753][312]LogBlueprintUserMessages: [BPC_Movement] 63.0
+[2023.06.07-13.32.46:854][324]LogBlueprintUserMessages: [BPC_Movement] 62.0
+[2023.06.07-13.32.46:954][336]LogBlueprintUserMessages: [BPC_Movement] 61.0
+[2023.06.07-13.32.47:054][348]LogBlueprintUserMessages: [BPC_Movement] 60.0
+[2023.06.07-13.32.47:154][360]LogBlueprintUserMessages: [BPC_Movement] 59.0
+[2023.06.07-13.32.47:653][420]LogBlueprintUserMessages: [BPC_Movement] 58.0
+[2023.06.07-13.32.47:754][432]LogBlueprintUserMessages: [BPC_Movement] 57.0
+[2023.06.07-13.32.47:854][444]LogBlueprintUserMessages: [BPC_Movement] 56.0
+[2023.06.07-13.32.47:954][456]LogBlueprintUserMessages: [BPC_Movement] 55.0
+[2023.06.07-13.32.48:054][468]LogBlueprintUserMessages: [BPC_Movement] 54.0
+[2023.06.07-13.32.48:155][480]LogBlueprintUserMessages: [BPC_Movement] 53.0
+[2023.06.07-13.32.48:254][492]LogBlueprintUserMessages: [BPC_Movement] 52.0
+[2023.06.07-13.32.48:354][504]LogBlueprintUserMessages: [BPC_Movement] 51.0
+[2023.06.07-13.32.48:471][518]LogBlueprintUserMessages: [BPC_Movement] 50.0
+[2023.06.07-13.32.48:571][530]LogBlueprintUserMessages: [BPC_Movement] 49.0
+[2023.06.07-13.32.48:671][542]LogBlueprintUserMessages: [BPC_Movement] 48.0
+[2023.06.07-13.32.48:813][559]LogBlueprintUserMessages: [BPC_Movement] 47.0
+[2023.06.07-13.32.48:913][571]LogBlueprintUserMessages: [BPC_Movement] 46.0
+[2023.06.07-13.32.49:113][595]LogBlueprintUserMessages: [BPC_Movement] 45.0
+[2023.06.07-13.32.49:213][607]LogBlueprintUserMessages: [BPC_Movement] 44.0
+[2023.06.07-13.32.49:314][619]LogBlueprintUserMessages: [BPC_Movement] 43.0
+[2023.06.07-13.32.49:413][631]LogBlueprintUserMessages: [BPC_Movement] 42.0
+[2023.06.07-13.32.49:513][643]LogBlueprintUserMessages: [BPC_Movement] 41.0
+[2023.06.07-13.32.49:614][655]LogBlueprintUserMessages: [BPC_Movement] 40.0
+[2023.06.07-13.32.49:714][667]LogBlueprintUserMessages: [BPC_Movement] 39.0
+[2023.06.07-13.32.49:914][691]LogBlueprintUserMessages: [BPC_Movement] 38.0
+[2023.06.07-13.32.50:015][703]LogBlueprintUserMessages: [BPC_Movement] 37.0
+[2023.06.07-13.32.50:115][715]LogBlueprintUserMessages: [BPC_Movement] 36.0
+[2023.06.07-13.32.50:215][727]LogBlueprintUserMessages: [BPC_Movement] 35.0
+[2023.06.07-13.32.50:315][739]LogBlueprintUserMessages: [BPC_Movement] 34.0
+[2023.06.07-13.32.50:414][751]LogBlueprintUserMessages: [BPC_Movement] 33.0
+[2023.06.07-13.32.50:514][763]LogBlueprintUserMessages: [BPC_Movement] 32.0
+[2023.06.07-13.32.50:706][786]LogBlueprintUserMessages: [BPC_Movement] 31.0
+[2023.06.07-13.32.50:807][798]LogBlueprintUserMessages: [BPC_Movement] 30.0
+[2023.06.07-13.32.50:906][810]LogBlueprintUserMessages: [BPC_Movement] 29.0
+[2023.06.07-13.32.51:007][822]LogBlueprintUserMessages: [BPC_Movement] 28.0
+[2023.06.07-13.32.51:107][834]LogBlueprintUserMessages: [BPC_Movement] 27.0
+[2023.06.07-13.32.51:207][846]LogBlueprintUserMessages: [BPC_Movement] 26.0
+[2023.06.07-13.32.51:307][858]LogBlueprintUserMessages: [BPC_Movement] 25.0
+[2023.06.07-13.32.51:407][870]LogBlueprintUserMessages: [BPC_Movement] 24.0
+[2023.06.07-13.32.51:507][882]LogBlueprintUserMessages: [BPC_Movement] 23.0
+[2023.06.07-13.32.51:607][894]LogBlueprintUserMessages: [BPC_Movement] 22.0
+[2023.06.07-13.32.51:706][906]LogBlueprintUserMessages: [BPC_Movement] 21.0
+[2023.06.07-13.32.51:898][929]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2023.06.07-13.32.51:999][941]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2023.06.07-13.32.52:099][953]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2023.06.07-13.32.52:199][965]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2023.06.07-13.32.52:299][977]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2023.06.07-13.32.52:399][989]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2023.06.07-13.32.52:499][  1]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2023.06.07-13.32.52:600][ 13]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2023.06.07-13.32.52:700][ 25]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2023.06.07-13.32.52:799][ 37]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2023.06.07-13.32.52:899][ 49]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2023.06.07-13.32.52:999][ 61]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2023.06.07-13.32.53:099][ 73]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2023.06.07-13.32.53:199][ 85]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2023.06.07-13.32.53:300][ 97]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2023.06.07-13.32.53:466][117]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2023.06.07-13.32.53:566][129]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2023.06.07-13.32.53:666][141]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2023.06.07-13.32.53:766][153]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2023.06.07-13.32.53:866][165]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2023.06.07-13.32.53:966][177]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:066][189]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:166][201]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:266][213]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:366][225]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:466][237]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:566][249]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:666][261]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:766][273]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:866][285]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.54:966][297]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:067][309]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:166][321]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:266][333]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:367][345]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:467][357]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:567][369]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:667][381]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:767][393]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:867][405]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.55:967][417]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:067][429]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:167][441]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:267][453]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:367][465]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:501][476]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:567][484]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:668][496]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:767][508]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:868][520]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.56:968][532]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:068][544]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:168][556]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:268][568]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:368][580]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:468][592]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:567][604]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:668][616]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:768][628]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:868][640]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.57:969][652]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:069][664]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:169][676]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:270][688]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:370][700]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:471][712]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:571][724]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:670][736]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:770][748]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:871][760]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.58:971][772]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:071][784]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:171][796]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:271][808]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:371][820]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:471][832]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:571][844]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:671][856]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:771][868]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:871][880]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.32.59:971][892]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:071][904]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:171][916]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:272][928]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:372][940]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:472][952]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:572][964]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:671][976]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:772][988]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:872][  0]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.00:971][ 12]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.33.01:459][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.33.01:459][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.33.01:459][ 65]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.33.01:459][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.33.01:467][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.33.01:491][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.33.01:530][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.07-13.33.01:530][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.33.01:531][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.33.01:547][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.33.01:554][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2023.06.07-13.33.01:603][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.06.07-13.34.37:705][346]BlueprintLog: New page: Compile BPC_Movement
+[2023.06.07-13.34.37:801][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.06.07-13.34.38:276][382]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/BPC_Movement8AC8FD554F5FFF88D5A7958B5CF3B9AB.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/Blueprints/BlueprintsComponents/BPC_Movement.uasset'
+[2023.06.07-13.34.38:295][382]AssetCheck: New page: Asset Save: BPC_Movement
+[2023.06.07-13.34.38:295][382]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BlueprintsComponents/BPC_Movement.BPC_Movement
+[2023.06.07-13.34.39:584][502]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.07-13.34.39:590][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.07-13.34.39:590][502]PIE: New page: PIE session: Level_1 (Jun 7, 2023, 7:34:39 PM)
+[2023.06.07-13.34.39:618][502]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.34.39:622][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003350s)
+[2023.06.07-13.34.39:623][502]LogAIModule: Creating AISystem for world Level_1
+[2023.06.07-13.34.39:623][502]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2023.06.07-13.34.39:623][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_1.Level_1 to /Game/Maps/UEDPIE_0_Level_1.Level_1 (0.005044s)
+[2023.06.07-13.34.39:668][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.06.07-13.34.39:669][502]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.07-13.34.39:669][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.07-13.34.39:669][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.07-13.34.39:670][502]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.07-13.34.39:670][502]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.07-13.34.39:682][502]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.07-13.34.39:682][502]LogAudioMixer: Display: 1: FrontRight
+[2023.06.07-13.34.39:696][502]LogAudioMixer: Display: Using Audio Device Speakers (2- RME Fireface UFX)
+[2023.06.07-13.34.39:697][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.07-13.34.39:697][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.07-13.34.39:697][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.07-13.34.39:697][502]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.07-13.34.39:697][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.07-13.34.39:697][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.07-13.34.39:712][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.07-13.34.39:712][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.07-13.34.39:712][502]LogInit: FAudioDevice initialized.
+[2023.06.07-13.34.39:712][502]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_1'.
+[2023.06.07-13.34.39:719][502]LogLoad: Game class is 'LVL1_GameMode_C'
+[2023.06.07-13.34.39:720][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2023.06.07-16.34.39
+[2023.06.07-13.34.39:721][502]LogWorld: Bringing up level for play took: 0.001368
+[2023.06.07-13.34.39:721][502]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.06.07-13.34.39:723][502]PIE: Server logged in
+[2023.06.07-13.34.39:724][502]PIE: Play in editor total start time 0.135 seconds.
+[2023.06.07-13.34.40:996][653]LogBlueprintUserMessages: [BPC_Movement] 99.0
+[2023.06.07-13.34.43:180][915]LogBlueprintUserMessages: [BPC_Movement] 98.0
+[2023.06.07-13.34.43:913][  3]LogBlueprintUserMessages: [BPC_Movement] 97.0
+[2023.06.07-13.34.44:013][ 15]LogBlueprintUserMessages: [BPC_Movement] 96.0
+[2023.06.07-13.34.44:114][ 27]LogBlueprintUserMessages: [BPC_Movement] 95.0
+[2023.06.07-13.34.44:214][ 39]LogBlueprintUserMessages: [BPC_Movement] 94.0
+[2023.06.07-13.34.44:314][ 51]LogBlueprintUserMessages: [BPC_Movement] 93.0
+[2023.06.07-13.34.44:414][ 63]LogBlueprintUserMessages: [BPC_Movement] 92.0
+[2023.06.07-13.34.44:515][ 75]LogBlueprintUserMessages: [BPC_Movement] 91.0
+[2023.06.07-13.34.44:615][ 87]LogBlueprintUserMessages: [BPC_Movement] 90.0
+[2023.06.07-13.34.44:715][ 99]LogBlueprintUserMessages: [BPC_Movement] 89.0
+[2023.06.07-13.34.44:814][111]LogBlueprintUserMessages: [BPC_Movement] 88.0
+[2023.06.07-13.34.44:915][123]LogBlueprintUserMessages: [BPC_Movement] 87.0
+[2023.06.07-13.34.45:015][135]LogBlueprintUserMessages: [BPC_Movement] 86.0
+[2023.06.07-13.34.45:115][147]LogBlueprintUserMessages: [BPC_Movement] 85.0
+[2023.06.07-13.34.45:774][226]LogBlueprintUserMessages: [BPC_Movement] 84.0
+[2023.06.07-13.34.45:873][238]LogBlueprintUserMessages: [BPC_Movement] 83.0
+[2023.06.07-13.34.45:974][250]LogBlueprintUserMessages: [BPC_Movement] 82.0
+[2023.06.07-13.34.46:075][262]LogBlueprintUserMessages: [BPC_Movement] 81.0
+[2023.06.07-13.34.46:175][274]LogBlueprintUserMessages: [BPC_Movement] 80.0
+[2023.06.07-13.34.46:275][286]LogBlueprintUserMessages: [BPC_Movement] 79.0
+[2023.06.07-13.34.46:375][298]LogBlueprintUserMessages: [BPC_Movement] 78.0
+[2023.06.07-13.34.46:475][310]LogBlueprintUserMessages: [BPC_Movement] 77.0
+[2023.06.07-13.34.46:575][322]LogBlueprintUserMessages: [BPC_Movement] 76.0
+[2023.06.07-13.34.46:676][334]LogBlueprintUserMessages: [BPC_Movement] 75.0
+[2023.06.07-13.34.46:778][346]LogBlueprintUserMessages: [BPC_Movement] 74.0
+[2023.06.07-13.34.46:878][358]LogBlueprintUserMessages: [BPC_Movement] 73.0
+[2023.06.07-13.34.46:978][370]LogBlueprintUserMessages: [BPC_Movement] 72.0
+[2023.06.07-13.34.47:079][382]LogBlueprintUserMessages: [BPC_Movement] 71.0
+[2023.06.07-13.34.47:179][394]LogBlueprintUserMessages: [BPC_Movement] 70.0
+[2023.06.07-13.34.50:013][734]LogBlueprintUserMessages: [BPC_Movement] 69.0
+[2023.06.07-13.34.50:113][746]LogBlueprintUserMessages: [BPC_Movement] 68.0
+[2023.06.07-13.34.50:213][758]LogBlueprintUserMessages: [BPC_Movement] 67.0
+[2023.06.07-13.34.50:313][770]LogBlueprintUserMessages: [BPC_Movement] 66.0
+[2023.06.07-13.34.50:414][782]LogBlueprintUserMessages: [BPC_Movement] 65.0
+[2023.06.07-13.34.50:514][794]LogBlueprintUserMessages: [BPC_Movement] 64.0
+[2023.06.07-13.34.50:615][806]LogBlueprintUserMessages: [BPC_Movement] 63.0
+[2023.06.07-13.34.50:715][818]LogBlueprintUserMessages: [BPC_Movement] 62.0
+[2023.06.07-13.34.50:814][830]LogBlueprintUserMessages: [BPC_Movement] 61.0
+[2023.06.07-13.34.50:914][842]LogBlueprintUserMessages: [BPC_Movement] 60.0
+[2023.06.07-13.34.51:014][854]LogBlueprintUserMessages: [BPC_Movement] 59.0
+[2023.06.07-13.34.51:114][866]LogBlueprintUserMessages: [BPC_Movement] 58.0
+[2023.06.07-13.34.51:906][961]LogBlueprintUserMessages: [BPC_Movement] 57.0
+[2023.06.07-13.34.52:006][973]LogBlueprintUserMessages: [BPC_Movement] 56.0
+[2023.06.07-13.34.52:106][985]LogBlueprintUserMessages: [BPC_Movement] 55.0
+[2023.06.07-13.34.52:206][997]LogBlueprintUserMessages: [BPC_Movement] 54.0
+[2023.06.07-13.34.52:307][  9]LogBlueprintUserMessages: [BPC_Movement] 53.0
+[2023.06.07-13.34.52:407][ 21]LogBlueprintUserMessages: [BPC_Movement] 52.0
+[2023.06.07-13.34.52:507][ 33]LogBlueprintUserMessages: [BPC_Movement] 51.0
+[2023.06.07-13.34.52:607][ 45]LogBlueprintUserMessages: [BPC_Movement] 50.0
+[2023.06.07-13.34.52:707][ 57]LogBlueprintUserMessages: [BPC_Movement] 49.0
+[2023.06.07-13.34.52:807][ 69]LogBlueprintUserMessages: [BPC_Movement] 48.0
+[2023.06.07-13.34.55:124][347]LogBlueprintUserMessages: [BPC_Movement] 47.0
+[2023.06.07-13.34.55:224][359]LogBlueprintUserMessages: [BPC_Movement] 46.0
+[2023.06.07-13.34.55:324][371]LogBlueprintUserMessages: [BPC_Movement] 45.0
+[2023.06.07-13.34.55:424][383]LogBlueprintUserMessages: [BPC_Movement] 44.0
+[2023.06.07-13.34.55:525][395]LogBlueprintUserMessages: [BPC_Movement] 43.0
+[2023.06.07-13.34.55:625][407]LogBlueprintUserMessages: [BPC_Movement] 42.0
+[2023.06.07-13.34.55:725][419]LogBlueprintUserMessages: [BPC_Movement] 41.0
+[2023.06.07-13.34.55:825][431]LogBlueprintUserMessages: [BPC_Movement] 40.0
+[2023.06.07-13.34.55:925][443]LogBlueprintUserMessages: [BPC_Movement] 39.0
+[2023.06.07-13.35.00:664][ 11]LogBlueprintUserMessages: [BPC_Movement] 38.0
+[2023.06.07-13.35.00:764][ 23]LogBlueprintUserMessages: [BPC_Movement] 37.0
+[2023.06.07-13.35.00:864][ 35]LogBlueprintUserMessages: [BPC_Movement] 36.0
+[2023.06.07-13.35.00:965][ 47]LogBlueprintUserMessages: [BPC_Movement] 35.0
+[2023.06.07-13.35.01:065][ 59]LogBlueprintUserMessages: [BPC_Movement] 34.0
+[2023.06.07-13.35.01:165][ 71]LogBlueprintUserMessages: [BPC_Movement] 33.0
+[2023.06.07-13.35.01:266][ 83]LogBlueprintUserMessages: [BPC_Movement] 32.0
+[2023.06.07-13.35.01:367][ 95]LogBlueprintUserMessages: [BPC_Movement] 31.0
+[2023.06.07-13.35.01:467][107]LogBlueprintUserMessages: [BPC_Movement] 30.0
+[2023.06.07-13.35.01:567][119]LogBlueprintUserMessages: [BPC_Movement] 29.0
+[2023.06.07-13.35.01:669][131]LogBlueprintUserMessages: [BPC_Movement] 28.0
+[2023.06.07-13.35.01:767][143]LogBlueprintUserMessages: [BPC_Movement] 27.0
+[2023.06.07-13.35.01:867][155]LogBlueprintUserMessages: [BPC_Movement] 26.0
+[2023.06.07-13.35.01:967][167]LogBlueprintUserMessages: [BPC_Movement] 25.0
+[2023.06.07-13.35.02:067][179]LogBlueprintUserMessages: [BPC_Movement] 24.0
+[2023.06.07-13.35.02:169][191]LogBlueprintUserMessages: [BPC_Movement] 23.0
+[2023.06.07-13.35.02:269][203]LogBlueprintUserMessages: [BPC_Movement] 22.0
+[2023.06.07-13.35.02:370][215]LogBlueprintUserMessages: [BPC_Movement] 21.0
+[2023.06.07-13.35.02:470][227]LogBlueprintUserMessages: [BPC_Movement] 20.0
+[2023.06.07-13.35.02:570][239]LogBlueprintUserMessages: [BPC_Movement] 19.0
+[2023.06.07-13.35.02:671][251]LogBlueprintUserMessages: [BPC_Movement] 18.0
+[2023.06.07-13.35.02:771][263]LogBlueprintUserMessages: [BPC_Movement] 17.0
+[2023.06.07-13.35.02:871][275]LogBlueprintUserMessages: [BPC_Movement] 16.0
+[2023.06.07-13.35.02:971][287]LogBlueprintUserMessages: [BPC_Movement] 15.0
+[2023.06.07-13.35.03:071][299]LogBlueprintUserMessages: [BPC_Movement] 14.0
+[2023.06.07-13.35.03:171][311]LogBlueprintUserMessages: [BPC_Movement] 13.0
+[2023.06.07-13.35.03:271][323]LogBlueprintUserMessages: [BPC_Movement] 12.0
+[2023.06.07-13.35.03:372][335]LogBlueprintUserMessages: [BPC_Movement] 11.0
+[2023.06.07-13.35.03:472][347]LogBlueprintUserMessages: [BPC_Movement] 10.0
+[2023.06.07-13.35.03:572][359]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2023.06.07-13.35.03:672][371]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2023.06.07-13.35.03:773][383]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2023.06.07-13.35.03:872][395]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2023.06.07-13.35.03:972][407]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2023.06.07-13.35.04:072][419]LogBlueprintUserMessages: [BPC_Movement] 4.0
+[2023.06.07-13.35.04:172][431]LogBlueprintUserMessages: [BPC_Movement] 3.0
+[2023.06.07-13.35.04:272][443]LogBlueprintUserMessages: [BPC_Movement] 2.0
+[2023.06.07-13.35.04:372][455]LogBlueprintUserMessages: [BPC_Movement] 1.0
+[2023.06.07-13.35.04:472][467]LogBlueprintUserMessages: [BPC_Movement] 0.0
+[2023.06.07-13.35.10:635][206]LogBlueprintUserMessages: [BPC_Movement] 9.0
+[2023.06.07-13.35.10:735][218]LogBlueprintUserMessages: [BPC_Movement] 8.0
+[2023.06.07-13.35.10:835][230]LogBlueprintUserMessages: [BPC_Movement] 7.0
+[2023.06.07-13.35.10:935][242]LogBlueprintUserMessages: [BPC_Movement] 6.0
+[2023.06.07-13.35.11:035][254]LogBlueprintUserMessages: [BPC_Movement] 5.0
+[2023.06.07-13.35.12:669][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.35.12:669][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_1
+[2023.06.07-13.35.12:669][446]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.07-13.35.12:669][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.12:682][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.07-13.35.12:704][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.07-13.35.12:742][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.07-13.35.12:742][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.35.12:743][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.07-13.35.12:760][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.07-13.35.12:765][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.06.07-13.35.12:813][447]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.06.07-13.35.15:925][790]LogSavePackage: Moving 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Saved/LVL1_CharacterE51975444A1610E24DDFA6ADD25B77AF.tmp' to 'J:/Dropbox/BASSLINE PROJECTS/INTERACTIVE PROJ/UE4/Unreal-Engine-Ultimate-Survival-Horror-Course/Survival_Horror/Content/GameBP/Level_1/LVL1_Character.uasset'
+[2023.06.07-13.35.15:960][790]AssetCheck: New page: Asset Save: LVL1_Character
+[2023.06.07-13.35.15:960][790]LogContentValidation: Display: Validating Blueprint /Game/GameBP/Level_1/LVL1_Character.LVL1_Character
